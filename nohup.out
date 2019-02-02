@@ -1661,3 +1661,545 @@ THCudaCheck FAIL file=/pytorch/aten/src/THC/generated/../THCTensorMathCompareT.c
 [I 18:51:27.317 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
 [I 18:51:57.824 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
 [I 18:53:57.708 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 18:55:57.747 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 18:57:57.759 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 18:59:57.871 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:00:49.662 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 19:01:57.789 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:03:57.812 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:05:57.838 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:07:57.857 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:09:57.878 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:11:57.945 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:13:57.967 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:15:58.050 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:17:58.003 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:19:58.028 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:21:58.026 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:23:58.089 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:25:58.102 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:27:58.324 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:29:58.211 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:31:58.287 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:33:58.236 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:35:58.334 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:37:58.392 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:39:58.408 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:41:58.457 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:43:58.464 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:45:58.499 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:47:58.480 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 19:49:58.625 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 20:53:58.533 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 20:55:58.434 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 20:57:58.433 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 20:59:58.518 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:01:58.571 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:03:58.471 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:05:58.569 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:09:57.869 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:11:57.897 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:13:57.948 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:15:58.016 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:17:58.011 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:19:58.047 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:21:58.105 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:23:10.098 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:23:37.636 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:23:57.856 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:24:11.671 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:24:12.895 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:24:13.575 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:24:13.575 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:24:13.575 NotebookApp] Replaying 3 buffered messages
+[I 21:24:50.516 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:25:10.240 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:25:16.073 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:25:57.796 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:26:14.843 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:27:57.766 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:28:33.589 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 21:28:40.934 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 21:28:41.159 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 21:28:41.838 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 21:28:43.546 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 21:28:44.145 NotebookApp] Starting buffering for 8f1bfd06-e636-43de-93a7-039065edb610:6d528a72f38e42499147f7f5b81a8e4d
+[I 21:28:45.043 NotebookApp] Starting buffering for 70ab1acf-4323-47bb-ad1e-9045b87a69e0:0a951133f8ad43ed836d13af543f7b75
+[I 21:28:45.575 NotebookApp] Starting buffering for f0b1df48-9e9f-4407-ac44-fa51222961d1:31fbb1b4089445158e7ae931c8ba02fe
+[I 21:28:46.154 NotebookApp] Starting buffering for 3cb46e78-778a-4323-8211-c66047db4eee:8849a730872e4e19aa60ed5173d7e8f9
+[I 21:28:46.437 NotebookApp] Starting buffering for 510e0940-c3df-495d-b67d-77a25efd6425:c252cd788bea434f84baa4924ade612f
+[I 21:29:57.796 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:31:57.852 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:33:57.892 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:35:57.915 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:37:57.957 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:38:46.879 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:39:58.013 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:40:29.357 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:41:21.956 NotebookApp] Saving file at /retinanet/retinanet.py
+[I 21:41:22.146 NotebookApp] Saving file at /retinanet/retinanet.py
+[I 21:41:26.600 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:41:27.820 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:41:28.437 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:41:28.494 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:41:28.495 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:41:28.495 NotebookApp] Replaying 9 buffered messages
+[I 21:41:28.859 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:41:28.902 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:41:28.903 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:41:57.679 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:42:58.738 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:43:05.975 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:43:06.794 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:43:07.410 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:43:07.470 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:43:07.471 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:43:07.471 NotebookApp] Replaying 9 buffered messages
+[I 21:43:07.881 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:43:07.925 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:43:07.926 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 21:43:57.700 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:45:57.855 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:47:57.856 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:49:57.894 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:51:51.521 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:51:57.838 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:53:57.834 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:55:26.440 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 21:55:57.872 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 21:57:58.026 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:03:53.606 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:03:54.678 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:03:55.178 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:03:55.180 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:03:55.180 NotebookApp] Replaying 3 buffered messages
+[I 22:03:57.884 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:04:06.487 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:04:06.660 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:04:06.843 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:04:10.685 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:04:11.209 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:04:11.690 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:04:11.691 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:04:11.691 NotebookApp] Replaying 3 buffered messages
+[I 22:05:57.941 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:07:57.996 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:09:58.023 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:10:36.377 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:11:18.213 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:11:23.311 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:11:24.029 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:11:24.550 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:11:24.551 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:11:24.552 NotebookApp] Replaying 5 buffered messages
+[I 22:11:46.713 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:11:49.820 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:11:50.536 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:11:51.148 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:11:51.604 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:11:51.604 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:11:51.604 NotebookApp] Replaying 3 buffered messages
+[I 22:11:51.622 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:11:51.660 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:11:51.661 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:11:51.661 NotebookApp] Replaying 2 buffered messages
+[I 22:11:57.853 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:12:08.345 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:12:10.819 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:12:11.536 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:12:12.148 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:12:12.305 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:12:12.305 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:12:12.306 NotebookApp] Replaying 3 buffered messages
+[I 22:12:14.185 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:12:14.220 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:12:14.220 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:12:38.316 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:12:40.860 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:12:41.581 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:12:45.043 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:12:45.045 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:12:45.045 NotebookApp] Replaying 6 buffered messages
+[I 22:12:59.093 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:13:17.721 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:13:17.883 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:13:20.502 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:13:22.716 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:13:23.536 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:13:24.030 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:13:24.030 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:13:24.030 NotebookApp] Replaying 5 buffered messages
+[I 22:13:47.217 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:13:57.818 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:14:05.354 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:14:37.498 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:14:39.884 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:14:48.964 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:14:49.679 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:14:50.184 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:14:50.185 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:14:50.185 NotebookApp] Replaying 3 buffered messages
+[I 22:15:09.344 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:15:11.901 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:15:12.318 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:15:12.871 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:15:12.872 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:15:12.873 NotebookApp] Replaying 6 buffered messages
+[I 22:15:23.729 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:15:27.252 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:15:27.678 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:15:28.095 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:15:28.095 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:15:28.095 NotebookApp] Replaying 3 buffered messages
+[I 22:15:57.957 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:17:57.944 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:18:39.002 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:18:51.857 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:19:57.873 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:20:18.035 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:20:22.548 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:20:23.365 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:20:23.836 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:20:23.837 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:20:23.837 NotebookApp] Replaying 3 buffered messages
+[I 22:21:57.898 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:23:57.924 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:24:49.577 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:24:51.621 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:24:54.333 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:24:56.001 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:24:56.716 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:24:57.100 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:24:57.101 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:24:57.101 NotebookApp] Replaying 6 buffered messages
+[I 22:25:57.857 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:26:09.345 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:26:09.541 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:26:09.836 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:26:12.081 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:26:20.619 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:26:20.765 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:26:25.506 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:26:52.536 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:26:57.750 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:26:58.166 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:26:58.167 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:26:58.167 NotebookApp] Replaying 16 buffered messages
+[I 22:27:04.364 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:27:04.573 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:27:05.059 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:27:05.059 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:27:05.059 NotebookApp] Replaying 3 buffered messages
+[I 22:27:29.981 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:27:32.563 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:27:33.290 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:27:34.115 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:27:34.680 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:27:34.681 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:27:34.681 NotebookApp] Replaying 7 buffered messages
+[W 22:27:34.705 NotebookApp] Replacing stale connection: c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:27:34.716 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:27:34.716 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:27:34.717 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:27:57.774 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:29:57.853 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:31:57.828 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:33:57.856 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:35:57.904 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:37:57.954 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:39:58.089 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:41:58.124 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:43:58.118 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:45:58.181 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:47:58.274 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:49:58.253 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:51:58.306 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:52:37.326 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:53:25.171 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:53:26.829 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:53:28.248 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:53:28.739 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:53:28.741 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:53:28.741 NotebookApp] Replaying 5 buffered messages
+[I 22:53:51.519 NotebookApp] Saving file at /retinanet/loss.py
+[I 22:53:54.638 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:53:54.845 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:53:55.471 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:53:55.549 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:53:55.549 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:53:55.549 NotebookApp] Replaying 6 buffered messages
+[I 22:53:55.819 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:53:55.862 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 22:53:55.864 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 22:53:58.489 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:55:57.887 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:57:57.891 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 22:59:57.982 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:01:15.987 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:01:20.069 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[W 23:01:20.073 NotebookApp] zmq message arrived on closed channel
+[I 23:01:20.073 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:01:20.492 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:01:20.494 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:01:20.494 NotebookApp] Replaying 2 buffered messages
+[I 23:01:36.375 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:01:48.789 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:01:49.500 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:01:50.110 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:01:50.483 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:01:50.484 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:01:50.484 NotebookApp] Replaying 3 buffered messages
+[W 23:01:50.506 NotebookApp] Replacing stale connection: c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:01:50.514 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:01:50.514 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:01:50.515 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:01:57.878 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:02:17.255 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:02:33.651 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:02:37.442 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:02:38.167 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:02:38.608 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:02:38.609 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:02:38.609 NotebookApp] Replaying 6 buffered messages
+[I 23:03:27.773 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:03:34.603 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:03:54.156 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:03:58.018 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:04:00.852 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:04:01.467 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:04:01.979 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:04:01.980 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:04:01.981 NotebookApp] Replaying 6 buffered messages
+[I 23:04:55.128 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:05:15.353 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:05:17.880 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:05:23.105 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:05:23.618 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:05:23.686 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:05:23.687 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:05:23.995 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:05:24.042 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:05:24.043 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:05:24.043 NotebookApp] Replaying 2 buffered messages
+[I 23:05:57.988 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:07:58.033 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:08:19.934 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:09:57.932 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:13:44.168 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:13:44.356 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:13:44.530 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:13:46.046 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:13:49.170 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:13:49.988 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:13:50.417 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:13:50.418 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:13:50.418 NotebookApp] Replaying 6 buffered messages
+[I 23:13:57.792 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:15:38.029 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:15:38.177 NotebookApp] Saving file at /retinanet/loss.py
+[I 23:15:43.065 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:15:43.787 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:15:44.273 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:15:44.274 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:15:44.274 NotebookApp] Replaying 3 buffered messages
+[I 23:15:57.756 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:17:57.898 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:19:57.932 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:21:57.946 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:23:57.998 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:25:58.009 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:27:03.718 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:27:17.635 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:27:18.459 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:27:18.955 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:27:18.955 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:27:18.956 NotebookApp] Replaying 6 buffered messages
+[I 23:27:57.839 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:29:57.883 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:31:57.931 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:32:19.356 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:33:31.236 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:33:44.767 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:33:45.613 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[W 23:33:45.653 NotebookApp] Notebook 14 - pikachu-retinanet.ipynb is not trusted
+[I 23:33:46.878 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:33:46.879 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:33:46.879 NotebookApp] Replaying 3 buffered messages
+[I 23:33:48.058 NotebookApp] Adapting to protocol v5.1 for kernel 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:33:57.925 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:34:36.946 NotebookApp] Kernel interrupted: 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:34:46.046 NotebookApp] Starting buffering for 8f1bfd06-e636-43de-93a7-039065edb610:8b41430ecaae436882aa93cebb9a18c6
+[I 23:34:46.765 NotebookApp] Kernel restarted: 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:34:47.485 NotebookApp] Kernel restarted: 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:34:47.550 NotebookApp] Adapting to protocol v5.1 for kernel 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:34:47.550 NotebookApp] Restoring connection for 8f1bfd06-e636-43de-93a7-039065edb610:8b41430ecaae436882aa93cebb9a18c6
+[I 23:34:47.550 NotebookApp] Replaying 8 buffered messages
+[I 23:34:47.851 NotebookApp] Starting buffering for 8f1bfd06-e636-43de-93a7-039065edb610:8b41430ecaae436882aa93cebb9a18c6
+[I 23:34:47.885 NotebookApp] Adapting to protocol v5.1 for kernel 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:34:47.885 NotebookApp] Restoring connection for 8f1bfd06-e636-43de-93a7-039065edb610:8b41430ecaae436882aa93cebb9a18c6
+[I 23:35:47.926 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[W 23:35:47.926 NotebookApp] Notebook 14 - pikachu-retinanet.ipynb is not trusted
+[I 23:37:47.953 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:37:55.074 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:37:55.484 NotebookApp] Kernel restarted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:37:55.958 NotebookApp] Adapting to protocol v5.1 for kernel c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:37:55.958 NotebookApp] Restoring connection for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 23:37:55.958 NotebookApp] Replaying 5 buffered messages
+[I 23:37:57.935 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:38:58.463 NotebookApp] Starting buffering for 8f1bfd06-e636-43de-93a7-039065edb610:8b41430ecaae436882aa93cebb9a18c6
+[I 23:38:59.073 NotebookApp] Kernel restarted: 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:38:59.522 NotebookApp] Adapting to protocol v5.1 for kernel 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:38:59.523 NotebookApp] Restoring connection for 8f1bfd06-e636-43de-93a7-039065edb610:8b41430ecaae436882aa93cebb9a18c6
+[I 23:38:59.523 NotebookApp] Replaying 6 buffered messages
+[I 23:39:03.314 NotebookApp] Starting buffering for 8f1bfd06-e636-43de-93a7-039065edb610:8b41430ecaae436882aa93cebb9a18c6
+[I 23:39:03.523 NotebookApp] Kernel restarted: 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:39:03.926 NotebookApp] Adapting to protocol v5.1 for kernel 8f1bfd06-e636-43de-93a7-039065edb610
+[I 23:39:03.927 NotebookApp] Restoring connection for 8f1bfd06-e636-43de-93a7-039065edb610:8b41430ecaae436882aa93cebb9a18c6
+[I 23:39:03.927 NotebookApp] Replaying 3 buffered messages
+[I 23:39:25.251 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:39:47.972 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:39:57.922 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:41:48.007 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:41:57.874 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:43:47.429 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:43:57.989 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:44:24.428 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:44:24.973 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:44:25.118 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:44:26.328 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:44:26.648 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:45:48.023 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:45:57.931 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:46:33.423 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:47:02.179 NotebookApp] Kernel interrupted: c7ccde51-074d-446c-8f4a-2259819791f0
+[I 23:47:47.378 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:47:58.211 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:48:02.439 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:48:03.056 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:48:03.160 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:48:41.182 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:48:41.899 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:48:41.984 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:48:42.286 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:49:57.926 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:51:48.033 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:51:58.657 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:53:48.058 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 23:53:58.001 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:55:58.045 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:57:58.067 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 23:59:58.160 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:01:58.144 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:03:58.144 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:05:58.184 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:07:58.202 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:09:58.217 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:11:58.276 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:13:58.275 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:15:58.302 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:17:58.429 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:19:58.421 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:21:58.505 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:23:58.436 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:25:58.500 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:27:58.507 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:29:58.636 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:31:58.655 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:33:58.469 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:35:58.780 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:37:58.869 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:39:58.787 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:41:58.913 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:43:58.826 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:45:58.941 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:47:58.863 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:49:58.937 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:51:58.989 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:53:58.879 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:55:58.971 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:57:59.133 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 00:59:59.240 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:01:59.114 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:03:59.252 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:05:59.247 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:07:59.212 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:09:59.184 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:11:59.143 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:13:59.140 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:15:59.350 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:17:59.399 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:19:59.625 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:21:59.356 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:23:59.252 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:25:59.388 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:27:59.266 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:29:59.767 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:31:59.737 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:33:59.883 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:35:59.473 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:37:59.475 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:39:59.769 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:41:59.858 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:43:59.580 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:46:00.065 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:47:59.929 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:49:59.845 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:51:59.798 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:54:00.167 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:55:59.952 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 01:58:00.184 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:00:00.114 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:02:00.152 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:04:00.311 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:06:00.318 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:08:00.471 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:10:00.521 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:12:00.412 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:14:00.360 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:16:00.723 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:18:00.643 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:20:00.475 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:22:00.550 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:24:00.361 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:26:00.602 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:28:00.714 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:30:00.490 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:32:00.488 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:34:00.423 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:36:00.665 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:38:00.943 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:40:00.804 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:42:00.795 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:44:00.938 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:46:00.697 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 02:48:01.086 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 07:50:01.752 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 07:51:48.079 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 07:52:01.485 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 07:54:01.753 NotebookApp] Saving file at /15 - COCO Retinanet.ipynb
+[I 07:56:26.690 NotebookApp] Adapting to protocol v5.1 for kernel 8f1bfd06-e636-43de-93a7-039065edb610
+[I 08:01:39.822 NotebookApp] Kernel started: f3f2fe80-3412-4ee2-80bb-83888a77d998
+[I 08:01:40.301 NotebookApp] Adapting to protocol v5.1 for kernel f3f2fe80-3412-4ee2-80bb-83888a77d998
+[I 08:02:23.193 NotebookApp] Saving file at /retinanet/loss.py
+[I 08:02:23.362 NotebookApp] Saving file at /retinanet/loss.py
+[I 08:03:33.956 NotebookApp] Starting buffering for c7ccde51-074d-446c-8f4a-2259819791f0:0aa70486e81340739efa042115ec23f9
+[I 08:03:41.367 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:04:36.105 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:04:37.104 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:04:37.560 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:04:37.921 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:03.847 NotebookApp] Kernel interrupted: f3f2fe80-3412-4ee2-80bb-83888a77d998
+[I 08:05:17.340 NotebookApp] Kernel interrupted: f3f2fe80-3412-4ee2-80bb-83888a77d998
+[I 08:05:34.264 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:35.456 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:35.579 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:37.530 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:38.149 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:38.230 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:38.694 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:38.853 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:42.996 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:43.496 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:43.977 NotebookApp] Saving file at /13 - pikachu-simple-ssd-like.ipynb
+[I 08:05:44.252 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
+[I 08:05:44.415 NotebookApp] Saving file at /14 - pikachu-retinanet.ipynb
