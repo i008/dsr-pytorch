@@ -43,13 +43,10 @@ class FL(nn.Module):
 
         cross_entropy = F.cross_entropy(output, target)
         
-        return cross_entropy
         cross_entropy_log = torch.log(cross_entropy)
         logpt = - F.cross_entropy(output, target)
         pt    = torch.exp(logpt)
         
-        import pdb
-        pdb.set_trace()
 
         focal_loss = -((1 - pt) ** self.focusing_param) * logpt
 
@@ -134,8 +131,13 @@ class FocalLoss(nn.Module):
         mask = pos_neg.unsqueeze(2).expand_as(cls_preds)
         masked_cls_preds = cls_preds[mask].view(-1,self.num_classes)
         
+#         fl = FL()
+#         cls_loss = self.focal_loss_alt(masked_cls_preds, cls_targets[pos_neg])
+
+  
         cls_loss = self.focal_loss(masked_cls_preds, cls_targets[pos_neg])
 
+#         print('loc_loss: %.3f | cls_loss: %.3f' % (loc_loss.item()/num_pos.item(), cls_loss.item()/num_peg.item()), end=' | ')
         pos = cls_targets > 0  # [N,#anchors]
         num_pos = pos.data.long().sum()
         num_pos_neg = pos_neg.data.long().sum()
