@@ -6,8 +6,8 @@ from .utils import meshgrid, box_iou, box_nms, change_box_order
 
 
 class DataEncoder:
-    def __init__(self):
-        self.anchor_areas = [32*32., 64*64., 128*128., 256*256., 512*512.]  # p3 -> p7
+    def __init__(self, anchor_areas=[32*32., 64*64., 128*128., 256*256., 512*512.]):
+        self.anchor_areas = anchor_areas   # p3 -> p7
         self.aspect_ratios = [1/2., 1/1., 2/1.]
         self.scale_ratios = [1., pow(2,1/3.), pow(2,2/3.)]
         self.anchor_wh = self._get_anchor_wh()
@@ -51,6 +51,8 @@ class DataEncoder:
             xy = meshgrid(fm_w,fm_h) + 0.5 # [fm_h*fm_w, 2]
             xy = (xy.float()*grid_size.float()).view(fm_h,fm_w,1,2).expand(fm_h,fm_w,9,2)
             wh = self.anchor_wh[i].view(1,1,9,2).expand(fm_h,fm_w,9,2)
+           
+            
             box = torch.cat([xy,wh], 3)  # [x,y,w,h]
             boxes.append(box.view(-1,4))
 
