@@ -1,8 +1,0 @@
-[I 07:39:58.167 NotebookApp] [nb_conda_kernels] enabled, 9 kernels found
-[I 07:39:58.327 NotebookApp] JupyterLab beta preview extension loaded from /home/i008/anaconda3/lib/python3.6/site-packages/jupyterlab
-[I 07:39:58.327 NotebookApp] JupyterLab application directory is /home/i008/anaconda3/share/jupyter/lab
-[I 07:39:58.452 NotebookApp] [nb_conda] enabled
-[I 07:39:58.452 NotebookApp] Serving notebooks from local directory: /home/i008/googledrive/dsr-pytorch
-[I 07:39:58.452 NotebookApp] The Jupyter Notebook is running at:
-[I 07:39:58.452 NotebookApp] http://(i008 or 127.0.0.1):8989/
-[I 07:39:58.452 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).

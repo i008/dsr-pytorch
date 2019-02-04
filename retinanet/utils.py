@@ -151,50 +151,49 @@ def box_iou(box1, box2, order='xyxy'):
     iou = inter / (area1[:,None] + area2 - inter)
     return iou
 
-def box_nms(bboxes, scores, threshold=0.5, mode='union'):
-    '''Non maximum suppression.
-
+def box_nms(bboxes, scores, labels, threshold=0.5, mode='union'):
+    """Non maximum suppression.
+    source: https://github.com/kuangliu/pytorch-retinanet
     Args:
       bboxes: (tensor) bounding boxes, sized [N,4].
       scores: (tensor) bbox scores, sized [N,].
       threshold: (float) overlap threshold.
       mode: (str) 'union' or 'min'.
-
     Returns:
       keep: (tensor) selected indices.
-
     Reference:
       https://github.com/rbgirshick/py-faster-rcnn/blob/master/lib/nms/py_cpu_nms.py
-    '''
-    x1 = bboxes[:,0]
-    y1 = bboxes[:,1]
-    x2 = bboxes[:,2]
-    y2 = bboxes[:,3]
+    """
+    x1 = bboxes[:, 0]
+    y1 = bboxes[:, 1]
+    x2 = bboxes[:, 2]
+    y2 = bboxes[:, 3]
 
-    areas = (x2-x1+1) * (y2-y1+1)
+    areas = (x2 - x1 + 1) * (y2 - y1 + 1)
     _, order = scores.sort(0, descending=True)
 
     keep = []
     while order.numel() > 0:
-        i = order[0]
+        try:
+            i = order[0]
+        except:
+            i = order.item()
         keep.append(i)
 
         if order.numel() == 1:
             break
 
+        label = labels[i]
+       
 
-        try:
-            xx1 = x1[order[1:]].clamp(min=x1[i])
-            yy1 = y1[order[1:]].clamp(min=y1[i])
-            xx2 = x2[order[1:]].clamp(max=x2[i])
-            yy2 = y2[order[1:]].clamp(max=y2[i])
-        except:
-            print("failed in nnms")
-            break
+        xx1 = x1[order[1:]].clamp(min=x1[i].data)
+        yy1 = y1[order[1:]].clamp(min=y1[i].data)
+        xx2 = x2[order[1:]].clamp(max=x2[i].data)
+        yy2 = y2[order[1:]].clamp(max=y2[i].data)
 
-        w = (xx2-xx1+1).clamp(min=0)
-        h = (yy2-yy1+1).clamp(min=0)
-        inter = w*h
+        w = (xx2 - xx1 + 1).clamp(min=0)
+        h = (yy2 - yy1 + 1).clamp(min=0)
+        inter = w * h
 
         if mode == 'union':
             ovr = inter / (areas[i] + areas[order[1:]] - inter)
@@ -203,10 +202,10 @@ def box_nms(bboxes, scores, threshold=0.5, mode='union'):
         else:
             raise TypeError('Unknown nms mode: %s.' % mode)
 
-        ids = (ovr<=threshold).nonzero().squeeze()
+        ids = ((ovr <= threshold) | (labels[order[1:]] != label)).nonzero().squeeze()
         if ids.numel() == 0:
             break
-        order = order[ids+1]
+        order = order[ids + 1]
     return torch.LongTensor(keep)
 
 def softmax(x):
