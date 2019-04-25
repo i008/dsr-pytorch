@@ -3,3 +3,4 @@
 *.gddoc
 *.gdslides
 *.csv
+__pycache__
