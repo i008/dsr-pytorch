@@ -134,7 +134,7 @@ class FocalLoss(nn.Module):
 #         fl = FL()
 #         cls_loss = self.focal_loss_alt(masked_cls_preds, cls_targets[pos_neg])
         cls_loss = self.focal_loss(masked_cls_preds, cls_targets[pos_neg])
-        print("clsloss: {} locloss: {}".format(cls_loss.item(), loc_loss.item()))
+#         print("clsloss: {} locloss: {}".format(cls_loss.item(), loc_loss.item()))
         pos = cls_targets > 0  # [N,#anchors]
         num_pos = pos.data.long().sum()
         num_pos_neg = pos_neg.data.long().sum()

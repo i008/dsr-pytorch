@@ -1,0 +1,14 @@
+name: dldsr
+channels:
+  - pytorch
+  - defaults
+ 
+dependencies:
+  - python=3.7
+  - pytorch
+  - torchvision
+  - pip:
+      - easyimages
+      - pretrainedmodels
+      - pytorch-ignite
+      
