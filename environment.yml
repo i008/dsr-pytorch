@@ -15,4 +15,5 @@ dependencies:
       - pytorch-ignite
       - torchsummary
       - scikit-image
+      - searbon
       
