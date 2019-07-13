@@ -1,22 +1,18 @@
 from __future__ import print_function
-
-import os
 import argparse
+import os
 
 import torch
-import torch.nn as nn
-import torch.optim as optim
-import torch.nn.functional as F
-import torch.backends.cudnn as cudnn
-
 import torchvision
-import torchvision.transforms as transforms
+from torch import nn, optim
+from torch.autograd import Variable
+from torch.backends import cudnn
+from torch.nn import functional as F
+from torchvision import transforms
 
+from datagen import ListDataset
 from loss import FocalLoss
 from retinanet import RetinaNet
-from datagen import ListDataset
-
-from torch.autograd import Variable
 
 
 parser = argparse.ArgumentParser(description='PyTorch RetinaNet Training')

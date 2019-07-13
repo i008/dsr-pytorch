@@ -5,18 +5,17 @@ The list file is like:
     img.jpg xmin ymin xmax ymax label xmin ymin xmax ymax label ...
 '''
 from __future__ import print_function
-
 import os
-import sys
 import random
+import sys
 
 import torch
-import torch.utils.data as data
-import torchvision.transforms as transforms
-
 from PIL import Image
+from torch.utils import data
+from torchvision import transforms
+
 from encoder import DataEncoder
-from transform import resize, random_flip, random_crop, center_crop
+from transform import center_crop, random_crop, random_flip, resize
 
 
 class ListDataset(data.Dataset):

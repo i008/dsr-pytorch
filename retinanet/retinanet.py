@@ -1,14 +1,11 @@
-import torch
-import torch.nn as nn
-
-from torch.autograd import Variable
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-from torch.autograd import Variable
-from torchvision import models
-from math import sqrt
 import multiprocessing as mp
+from math import sqrt
+
+import torch
+from torch import nn
+from torch.autograd import Variable
+from torch.nn import functional as F
+from torchvision import models
 
 
 class FPN(nn.Module):

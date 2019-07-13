@@ -1,8 +1,9 @@
 '''Encode object boxes and labels.'''
 import math
+
 import torch
 
-from .utils import meshgrid, box_iou, box_nms, change_box_order
+from .utils import box_iou, box_nms, change_box_order, meshgrid
 
 
 class DataEncoder:
@@ -83,6 +84,7 @@ class DataEncoder:
 
         ious = box_iou(anchor_boxes, boxes, order='xywh')
         max_ious, max_ids = ious.max(1)
+        
         boxes = boxes[max_ids]
 
         loc_xy = (boxes[:,:2]-anchor_boxes[:,:2]) / anchor_boxes[:,2:]

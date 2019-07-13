@@ -1,13 +1,17 @@
 import sys
 
-sys.path.append('..')
-
+import torch
 from torch import nn
 from torch.nn import functional as F
-import torch
+
+from utils.encoders import get_encoder_channel_nr
 
 from .base import Conv2dBnRelu, DecoderBlock
-from utils.encoders import get_encoder_channel_nr
+
+
+sys.path.append('..')
+
+
 
 """
 This script has been taken (and modified) from :

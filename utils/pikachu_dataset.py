@@ -1,6 +1,8 @@
+import os
+
 from mxnet import gluon, image
 from mxnet.gluon import utils as gutils
-import os
+
 
 def _download_pikachu(data_dir):
     root_url = ('https://apache-mxnet.s3-accelerate.amazonaws.com/'

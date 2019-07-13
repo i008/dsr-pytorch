@@ -1,11 +1,11 @@
 '''Some helper functions for PyTorch.'''
+import math
 import os
 import sys
 import time
-import math
 
 import torch
-import torch.nn as nn
+from torch import nn
 
 
 def get_mean_and_std(dataset, max_load=10000):

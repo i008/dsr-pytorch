@@ -3,9 +3,8 @@ import math
 import random
 
 import torch
-import torchvision.transforms as transforms
-
 from PIL import Image, ImageDraw
+from torchvision import transforms
 
 
 def resize(img, boxes, size, max_size=1000):

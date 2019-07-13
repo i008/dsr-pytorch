@@ -1,11 +1,10 @@
 import torch
-import torchvision.transforms as transforms
-
-from torch.autograd import Variable
-
-from retinanet import RetinaNet
-from encoder import DataEncoder
 from PIL import Image, ImageDraw
+from torch.autograd import Variable
+from torchvision import transforms
+
+from encoder import DataEncoder
+from retinanet import RetinaNet
 
 
 print('Loading model..')

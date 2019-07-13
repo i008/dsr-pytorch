@@ -1,19 +1,29 @@
-name: dldsr
+name: dl
 channels:
   - pytorch
   - defaults
  
 dependencies:
-  - python=3.7
+  - python
   - pytorch
+  - cudatoolkit=9.0
   - torchvision
   - pandas
   - cython
+  - nb_conda_kernels
+  - nb_conda
+  - ignite
   - pip:
       - easyimages
       - pretrainedmodels
       - pytorch-ignite
       - torchsummary
       - scikit-image
-      - searbon
-      
+      - seaborn
+      - pycocotools
+      - imgaug
+      - albumentations
+      - tensorboard
+      - skorch
+      - neptune-client
+      - neptune-contrib

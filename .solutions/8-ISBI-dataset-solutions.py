@@ -1,9 +1,8 @@
 
-from torch.utils.data import DataLoader, Dataset
 import PIL
-from skimage import io
 import numpy as np
-
+from skimage import io
+from torch.utils.data import DataLoader, Dataset
 
 
 class NeuronSegmDataset(Dataset):

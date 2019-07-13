@@ -1,10 +1,10 @@
 from copy import deepcopy
 
-import torch
-from torch.autograd import Variable
-from torch import nn
-import torchvision
 import pretrainedmodels
+import torch
+import torchvision
+from torch import nn
+from torch.autograd import Variable
 
 
 class ResNetEncoders(nn.Module):
