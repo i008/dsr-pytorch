@@ -13,6 +13,7 @@ dependencies:
   - nb_conda_kernels
   - nb_conda
   - ignite
+  - scikit-learn
   - pip:
       - easyimages
       - pretrainedmodels
