@@ -9,3 +9,12 @@ https://s3.eu-central-1.amazonaws.com/i008data/small_sneaker_not_sneaker.tar.gz
 ```bash
 conda env update
 ```
+
+
+### Commands
+
+```bash
+tensorboard --port=8888 --logdir runs
+```
+
+

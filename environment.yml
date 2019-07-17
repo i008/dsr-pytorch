@@ -28,3 +28,4 @@ dependencies:
       - skorch
       - neptune-client
       - neptune-contrib
+      - neptune-notebooks

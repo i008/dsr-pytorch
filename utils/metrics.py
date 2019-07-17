@@ -57,3 +57,25 @@ def calculate_acc(net, X, Y):
     print("model acc is: ", acc)
     
     net.train()
+
+
+# +
+
+def calculate_acc(net, X, Y):
+    
+    net.eval()
+    
+
+    Xtorch = torch.from_numpy(X).float().cuda()
+    ytorch = torch.from_numpy(Y).float().cuda()
+
+    with torch.no_grad():
+        predictions = net(Xtorch)
+    predictions = (predictions.sigmoid() > .5).squeeze(-1)
+    predictions = np.array(predictions.cpu())
+    
+    real = np.array(ytorch.cpu())
+    acc = sum(predictions==real)/len(predictions)
+    print("model acc is: ", acc)
+    
+    net.train()
