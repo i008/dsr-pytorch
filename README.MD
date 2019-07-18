@@ -8,6 +8,9 @@ https://s3.eu-central-1.amazonaws.com/i008data/small_sneaker_not_sneaker.tar.gz
 ### Environment
 ```bash
 conda env update
+
+If you dont have a GPU in your system remove the cudatoolkit from the environment.yml file
+
 ```
 
 
