@@ -2,6 +2,11 @@ import numpy as np
 import torch
 from matplotlib import pyplot as plt
 
+import os
+p = os.path.dirname(os.path.abspath(__file__))
+
+DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
+DEVICE = 'cpu'
 
 def plot_decision_boundry(net, X, line='g--'):
     W = net.fc.weight[0].detach().cpu().numpy()
@@ -14,9 +19,11 @@ def plot_decision_boundry(net, X, line='g--'):
     
     
 def plot_decision_space(net, X, Y):
+    net.to(DEVICE)
+    
     xx, yy = np.mgrid[-1:1:.01, -1:1:.01]
     grid = np.c_[xx.ravel(), yy.ravel()]
-    probs = torch.sigmoid(net(torch.from_numpy(grid).float().cuda())).view(-1, 1).view(xx.shape)
+    probs = torch.sigmoid(net(torch.from_numpy(grid).float().to(DEVICE))).view(-1, 1).view(xx.shape)
     f, ax = plt.subplots(figsize=(8, 6))
 
 
@@ -46,3 +53,23 @@ def visualize_data(X, Y):
     ax.set(aspect="equal",
            xlabel="$X_1$", ylabel="$X_2$")    
     
+
+def idtoname(i):
+
+    with open(os.path.join(p, 'imagenet_synsets.txt'), 'r') as f:
+        synsets = f.readlines()
+
+
+    with open(os.path.join(p, 'imagenet_classes.txt'), 'r') as f:
+        class_id_to_key = f.readlines()
+
+
+    synsets = [x.strip() for x in synsets]
+    splits = [line.split(' ') for line in synsets]
+    key_to_classname = {spl[0]:' '.join(spl[1:]) for spl in splits}
+
+
+    class_id_to_key = [x.strip() for x in class_id_to_key]
+    name = key_to_classname[class_id_to_key[i]]
+    print(name)
+    return name
