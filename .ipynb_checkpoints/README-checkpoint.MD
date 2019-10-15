@@ -10,7 +10,7 @@ https://s3.eu-central-1.amazonaws.com/i008data/small_sneaker_not_sneaker.tar.gz
 conda env update
 conda install nb_conda
 source activate dl
-python -m ipykernel install --user --name myenv --display-name "dsr-dl"
+python -m ipykernel install --user --name dl --display-name "dsr-dl"
 
 If you dont have a GPU in your system remove the cudatoolkit from the environment.yml file
 
