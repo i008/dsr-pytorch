@@ -1,0 +1,164 @@
+[I 20:56:46.230 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[I 20:56:46.503 NotebookApp] [nb_conda] enabled
+[I 20:56:46.503 NotebookApp] Serving notebooks from local directory: /home/i008/dsr-pytorch
+[I 20:56:46.503 NotebookApp] The Jupyter Notebook is running at:
+[I 20:56:46.503 NotebookApp] http://i008:8989/
+[I 20:56:46.503 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+Opening in existing browser session.
+[W 20:57:00.057 NotebookApp] Notebook 5.1-pytorch-fmnist.ipynb is not trusted
+[I 20:57:00.802 NotebookApp] Kernel started: 2e70e755-2c4a-4a73-a748-ac57ef5e9164
+[I 20:59:00.871 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[W 20:59:00.873 NotebookApp] Notebook 5.1-pytorch-fmnist.ipynb is not trusted
+[I 21:16:11.540 NotebookApp] Kernel interrupted: 2e70e755-2c4a-4a73-a748-ac57ef5e9164
+[I 21:17:00.950 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 21:23:12.056 NotebookApp] Kernel started: d604c81c-36d7-4f17-816b-adc3521cbeff
+[I 21:23:12.063 NotebookApp] 302 GET /notebooks/static/vgg.png (127.0.0.1) 1.51ms
+[W 21:23:43.949 NotebookApp] 404 GET /notebooks/static/learning_rate_finder_lr_plot.png (127.0.0.1): No such file or directory: static/learning_rate_finder_lr_plot.png
+[W 21:23:43.959 NotebookApp] 404 GET /notebooks/static/learning_rate_finder_lr_plot.png (127.0.0.1) 9.73ms referer=http://0.0.0.0:8989/notebooks/5.1-pytorch-fmnist.ipynb
+[W 21:24:19.317 NotebookApp] 404 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1): No such file or directory: static/learing_rate_finder_lr_plot.png
+[W 21:24:19.317 NotebookApp] 404 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1) 1.17ms referer=http://0.0.0.0:8989/notebooks/5.1-pytorch-fmnist.ipynb
+[W 21:24:39.779 NotebookApp] 404 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1): No such file or directory: static/learing_rate_finder_lr_plot.png
+[W 21:24:39.780 NotebookApp] 404 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1) 1.17ms referer=http://0.0.0.0:8989/notebooks/5.1-pytorch-fmnist.ipynb
+[W 21:24:41.858 NotebookApp] 404 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1): No such file or directory: static/learing_rate_finder_lr_plot.png
+[W 21:24:41.859 NotebookApp] 404 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1) 1.27ms referer=http://0.0.0.0:8989/notebooks/5.1-pytorch-fmnist.ipynb
+[I 21:25:00.893 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 21:25:12.076 NotebookApp] Saving file at /5-neural-network-from-diagram.ipynb
+[I 21:25:30.492 NotebookApp] 302 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1) 0.68ms
+[I 21:27:00.890 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 21:49:28.706 NotebookApp] Copying 5.1-pytorch-fmnist.ipynb to 
+[I 21:49:30.333 NotebookApp] Kernel started: c50273ff-b581-4d4e-be60-dc5967b82d99
+[I 21:49:30.345 NotebookApp] 302 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1) 0.70ms
+[I 21:49:36.164 NotebookApp] Starting buffering for 2e70e755-2c4a-4a73-a748-ac57ef5e9164:9c5aad3651fe41088d4f3df7541521b5
+[I 21:50:06.071 NotebookApp] 302 GET /notebooks/static/learing_rate_finder_lr_plot.png (127.0.0.1) 0.66ms
+[I 21:59:52.150 NotebookApp] Kernel started: d11ea758-0259-4e5f-9b27-64699f9e5c9f
+[I 22:01:42.026 NotebookApp] Starting buffering for d604c81c-36d7-4f17-816b-adc3521cbeff:a5f50360f7114de58113f93d28bb0a4f
+[I 22:01:53.718 NotebookApp] Saving file at /5.4-visualize-cnn-filters.ipynb
+[I 22:10:12.284 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:12.406 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:12.531 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:12.662 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:12.792 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:12.972 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:13.267 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:13.392 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:13.536 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:13.687 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:14.069 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:14.203 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:14.375 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:14.554 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:14.734 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:10:16.755 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 22:10:16.915 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 22:10:17.047 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 22:10:17.188 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 22:10:17.328 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 22:11:30.761 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:11:30.945 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:11:31.152 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:11:31.342 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:11:31.513 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:12:06.119 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 22:41:30.426 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 22:41:33.430 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 22:41:33.567 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 22:41:33.724 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[W 22:57:07.358 NotebookApp] Notebook 6-pytorch-fmnist-transfer-learning.ipynb is not trusted
+[I 22:57:07.635 NotebookApp] Kernel started: 3d0ca9d6-b081-4dae-a8e0-d28744d96064
+[I 22:57:12.136 NotebookApp] Starting buffering for 3d0ca9d6-b081-4dae-a8e0-d28744d96064:20c75063add649babdd22c642716e9c0
+[I 22:57:12.645 NotebookApp] Kernel shutdown: 3d0ca9d6-b081-4dae-a8e0-d28744d96064
+[I 22:57:12.695 NotebookApp] Kernel started: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 22:59:07.823 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:01:07.812 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:03:07.814 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:05:07.827 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:07:01.848 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:07:07.674 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:08:21.837 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:08:42.898 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:09:07.661 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:11:07.671 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:13:07.825 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:15:07.659 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:15:38.971 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:16:09.276 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:17:07.642 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:19:07.815 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:20:22.023 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:20:24.787 NotebookApp] Starting buffering for c4bd8ded-b750-446f-bd2d-415252309f0a:20c75063add649babdd22c642716e9c0
+[I 23:20:25.601 NotebookApp] Kernel restarted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:20:26.087 NotebookApp] Restoring connection for c4bd8ded-b750-446f-bd2d-415252309f0a:20c75063add649babdd22c642716e9c0
+[I 23:20:26.087 NotebookApp] Replaying 5 buffered messages
+[I 23:21:07.819 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:22:01.904 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:23:07.823 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:25:07.638 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:25:27.185 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:26:54.199 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:26:54.340 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:26:54.496 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:26:54.640 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:26:54.783 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:27:07.637 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:27:11.505 NotebookApp] Kernel interrupted: c4bd8ded-b750-446f-bd2d-415252309f0a
+[I 23:27:25.617 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:27:25.765 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:27:25.907 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:27:26.052 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:27:26.184 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:27:26.315 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[W 23:27:31.504 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 23:27:31.808 NotebookApp] Kernel started: 73e5fd50-9eee-46bf-8dd5-9060d36ccabf
+[I 23:27:31.819 NotebookApp] 302 GET /notebooks/static/sneakers.png (127.0.0.1) 0.77ms
+[I 23:29:31.825 NotebookApp] Saving file at /7-transfer-learning-sneaker-not-sneaker.ipynb
+[W 23:29:31.826 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 19:51:06.663 NotebookApp] 302 GET / (100.74.198.254) 1.21ms
+[I 19:55:30.263 NotebookApp] 302 GET / (100.74.198.254) 1.06ms
+[W 19:55:35.001 NotebookApp] Notebook 10-Object-Detection-Shapes.ipynb is not trusted
+[I 19:55:35.812 NotebookApp] Kernel started: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 19:55:35.815 NotebookApp] 302 GET /notebooks/static/shapes-coco.png (100.74.198.254) 1.16ms
+[I 19:55:35.816 NotebookApp] 302 GET /notebooks/static/cocodsformat.jpg (100.74.198.254) 1.24ms
+[I 19:55:35.816 NotebookApp] 302 GET /notebooks/static/anchors3.png (100.74.198.254) 0.49ms
+[I 19:55:35.828 NotebookApp] 302 GET /notebooks/static/iou.png (100.74.198.254) 0.53ms
+[I 19:55:35.843 NotebookApp] 302 GET /notebooks/static/matched_anchors.png (100.74.198.254) 0.59ms
+[I 19:55:35.878 NotebookApp] 302 GET /notebooks/static/anchor_coef.png (100.74.198.254) 0.60ms
+[I 19:55:35.987 NotebookApp] 302 GET /notebooks/static/cnn.jpg (100.74.198.254) 0.56ms
+[I 19:56:38.422 NotebookApp] Kernel interrupted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 19:56:40.171 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 19:56:40.889 NotebookApp] Kernel restarted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 19:56:41.360 NotebookApp] Restoring connection for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 19:56:41.360 NotebookApp] Replaying 3 buffered messages
+[I 19:57:35.831 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 19:59:35.876 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:01:36.378 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:03:36.354 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:05:36.376 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:06:54.173 NotebookApp] Kernel interrupted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 20:07:00.246 NotebookApp] Kernel interrupted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 20:07:35.867 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:07:42.127 NotebookApp] Kernel interrupted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 20:08:34.693 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 20:08:40.199 NotebookApp] Kernel restarted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 20:08:40.547 NotebookApp] Restoring connection for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 20:08:40.547 NotebookApp] Replaying 3 buffered messages
+[I 20:09:35.859 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:11:05.910 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:11:06.085 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:11:06.263 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:11:34.016 NotebookApp] Kernel started: f2c4ff53-01ee-4403-a000-65f13ddc2420
+[I 20:11:36.357 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:12:50.741 NotebookApp] Kernel interrupted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 20:12:59.820 NotebookApp] Kernel interrupted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 20:13:00.850 NotebookApp] Kernel interrupted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 20:13:04.828 NotebookApp] Kernel interrupted: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 20:13:34.393 NotebookApp] Saving file at /AutoEncoders - VAE.ipynb
+[I 20:13:35.825 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:43:27.153 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:43:27.271 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:43:27.416 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:43:27.553 NotebookApp] Saving file at /10-Object-Detection-Shapes.ipynb
+[I 20:43:46.180 NotebookApp] Starting buffering for f2c4ff53-01ee-4403-a000-65f13ddc2420:5d48e2671c9a44b1954ac4e3821dce52
+[W 20:43:52.812 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 20:43:53.300 NotebookApp] 302 GET /notebooks/static/sneakers.png (100.74.198.254) 2.08ms
+[I 22:35:07.286 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 23:01:10.928 NotebookApp] Restoring connection for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129

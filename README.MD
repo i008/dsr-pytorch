@@ -14,6 +14,8 @@ python -m ipykernel install --user --name dl --display-name "dsr-dl"
 
 If you dont have a GPU in your system remove the cudatoolkit from the environment.yml file
 
+python test_env.py
+
 ```
 
 
