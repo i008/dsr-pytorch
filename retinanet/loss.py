@@ -113,9 +113,12 @@ class FocalLoss(nn.Module):
         loss:
           (tensor) loss = SmoothL1Loss(loc_preds, loc_targets) + FocalLoss(cls_preds, cls_targets).
         '''
+        import pdb; pdb.set_trace()
+        
         batch_size, num_boxes = cls_targets.size()
         pos = cls_targets > 0  # [N,#anchors]
         num_pos = pos.data.long().sum()
+        
 
         ################################################################
         # loc_loss = SmoothL1Loss(pos_loc_preds, pos_loc_targets)

@@ -24,3 +24,6 @@ python test_env.py
 ```bash
 tensorboard --port=8888 --logdir runs
 ```
+
+
+[1. Pytorch basics](1-pytorch-basics.ipynb)

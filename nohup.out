@@ -162,3 +162,844 @@ Opening in existing browser session.
 [I 20:43:53.300 NotebookApp] 302 GET /notebooks/static/sneakers.png (100.74.198.254) 2.08ms
 [I 22:35:07.286 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
 [I 23:01:10.928 NotebookApp] Restoring connection for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[W 23:05:48.066 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 23:05:49.229 NotebookApp] Kernel started: ed4ada18-8217-4ce3-b5b9-c1395ad416d5
+[I 23:07:49.911 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 23:07:49.913 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 08:57:54.083 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 08:57:55.926 NotebookApp] Restoring connection for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[W 08:59:25.927 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:59:25.952 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 08:59:30.929 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 09:53:26.106 NotebookApp] Restoring connection for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 17:30:50.619 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 17:30:51.860 NotebookApp] Restoring connection for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[W 17:33:21.862 NotebookApp] WebSocket ping timeout after 119966 ms.
+[W 17:33:21.951 NotebookApp] WebSocket ping timeout after 119952 ms.
+[I 17:33:26.866 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 23:43:49.397 NotebookApp] 302 GET / (100.74.198.254) 1.15ms
+[I 23:46:15.593 NotebookApp] Starting buffering for c50273ff-b581-4d4e-be60-dc5967b82d99:7911c43565f4456d88ea9914b494553e
+[I 08:15:15.348 NotebookApp] 302 GET / (46.114.32.4) 1.12ms
+[I 08:15:15.385 NotebookApp] 302 GET /tree? (46.114.32.4) 1.51ms
+[I 08:19:00.550 NotebookApp] Starting buffering for c4bd8ded-b750-446f-bd2d-415252309f0a:20c75063add649babdd22c642716e9c0
+[I 09:21:34.528 NotebookApp] 302 GET / (79.195.223.42) 0.27ms
+[I 09:27:48.497 NotebookApp] Restoring connection for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 11:48:22.990 NotebookApp] 302 GET / (79.195.223.42) 0.31ms
+[W 11:48:35.222 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 11:50:46.926 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 11:50:46.927 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 11:56:44.807 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 11:56:44.809 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 11:58:44.696 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 11:58:44.697 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:00:45.763 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:00:45.764 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:06:51.394 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:06:51.395 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:08:51.043 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:08:51.044 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:10:44.966 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:10:44.967 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:12:44.679 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:12:44.680 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:14:44.755 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:14:44.756 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:18:45.586 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:18:45.587 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:19:39.813 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:19:39.814 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:20:45.964 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:20:45.965 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:22:45.310 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:22:45.312 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:24:45.978 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:24:45.979 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:28:45.797 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:28:45.798 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 12:40:45.691 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 12:40:45.692 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[W 13:11:15.159 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 13:11:24.025 NotebookApp] Starting buffering for 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1:57f3dc187add45cbb32ccded5b474129
+[I 13:13:22.873 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 13:13:22.874 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[W 13:18:40.279 NotebookApp] WebSocket ping timeout after 119874 ms.
+[I 14:52:46.327 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 14:52:46.328 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 14:55:39.677 NotebookApp] Kernel interrupted: ed4ada18-8217-4ce3-b5b9-c1395ad416d5
+[I 14:55:41.159 NotebookApp] Kernel interrupted: ed4ada18-8217-4ce3-b5b9-c1395ad416d5
+[I 14:55:51.132 NotebookApp] Kernel interrupted: ed4ada18-8217-4ce3-b5b9-c1395ad416d5
+[W 14:55:58.910 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 14:58:06.755 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 14:58:06.756 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 15:02:07.448 NotebookApp] Saving file at /1-pytorch-basics.ipynb
+[W 15:02:07.449 NotebookApp] Notebook 1-pytorch-basics.ipynb is not trusted
+[I 15:09:37.580 NotebookApp] Kernel started: b109a13a-e6a4-432c-82a9-55450cc90d5d
+[I 15:11:39.123 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:15:38.354 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:17:38.217 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:19:37.932 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:20:15.620 NotebookApp] Kernel interrupted: b109a13a-e6a4-432c-82a9-55450cc90d5d
+[I 15:21:37.866 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:23:39.300 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:27:37.914 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:31:37.868 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:33:37.995 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:37:38.091 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:39:37.858 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:41:37.866 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:43:37.807 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:45:38.101 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 15:47:38.249 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:03:37.896 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:05:31.665 NotebookApp] Kernel interrupted: b109a13a-e6a4-432c-82a9-55450cc90d5d
+[I 16:05:37.759 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:07:40.706 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:08:10.033 NotebookApp] Kernel interrupted: b109a13a-e6a4-432c-82a9-55450cc90d5d
+[I 16:09:38.158 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:11:37.827 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:37:37.852 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:43:37.857 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:45:37.707 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:47:37.943 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:49:37.835 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 16:51:37.869 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 17:01:37.806 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 17:03:37.793 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 17:05:37.836 NotebookApp] Saving file at /2-perceptron.ipynb
+[I 17:07:37.804 NotebookApp] Saving file at /2-perceptron.ipynb
+[W 17:21:13.995 NotebookApp] Notebook 2.1-perceptron-skorch.ipynb is not trusted
+[I 17:21:14.834 NotebookApp] Kernel started: ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0
+[I 17:21:32.142 NotebookApp] Starting buffering for b109a13a-e6a4-432c-82a9-55450cc90d5d:2dfd4d9814764a13ba968d326f5552db
+[I 17:21:33.153 NotebookApp] Kernel restarted: b109a13a-e6a4-432c-82a9-55450cc90d5d
+[I 17:21:33.540 NotebookApp] Restoring connection for b109a13a-e6a4-432c-82a9-55450cc90d5d:2dfd4d9814764a13ba968d326f5552db
+[I 17:21:33.540 NotebookApp] Replaying 6 buffered messages
+[I 17:21:42.167 NotebookApp] Kernel shutdown: ed4ada18-8217-4ce3-b5b9-c1395ad416d5
+[I 17:21:44.476 NotebookApp] Kernel shutdown: 4b1f6d23-e2f5-4cb5-b557-5dcbccfcf5a1
+[I 17:21:44.678 NotebookApp] Kernel shutdown: b109a13a-e6a4-432c-82a9-55450cc90d5d
+[I 17:21:48.469 NotebookApp] Starting buffering for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[I 17:21:48.982 NotebookApp] Kernel restarted: ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0
+[I 17:21:49.361 NotebookApp] Restoring connection for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[I 17:21:49.361 NotebookApp] Replaying 6 buffered messages
+[I 17:23:15.176 NotebookApp] Saving file at /2.1-perceptron-skorch.ipynb
+[I 17:33:33.230 NotebookApp] Kernel started: e26a7c67-2330-4f55-b617-eceb067386d2
+[I 17:35:15.009 NotebookApp] Saving file at /2.1-perceptron-skorch.ipynb
+[I 17:35:33.463 NotebookApp] Saving file at /2.2-perceptron-tensorboard.ipynb
+[W 17:36:10.557 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 17:36:11.032 NotebookApp] Kernel started: 3b169d57-b915-46bc-b5a4-e1339453e4ad
+[I 17:37:15.702 NotebookApp] Saving file at /2.1-perceptron-skorch.ipynb
+[I 17:38:10.514 NotebookApp] 302 GET / (79.195.223.42) 0.31ms
+[I 17:38:11.553 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 17:38:11.554 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 17:38:19.494 NotebookApp] Saving file at /2.2-perceptron-tensorboard.ipynb
+[I 18:05:48.323 NotebookApp] Starting buffering for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[I 18:05:48.323 NotebookApp] Starting buffering for e26a7c67-2330-4f55-b617-eceb067386d2:6b54ee735acf4c3a8754c80f94ed211f
+[I 18:05:48.324 NotebookApp] Starting buffering for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[I 18:05:50.331 NotebookApp] Restoring connection for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[I 18:05:50.453 NotebookApp] Restoring connection for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[W 18:05:50.512 NotebookApp] 404 GET /api/kernels/b109a13a-e6a4-432c-82a9-55450cc90d5d/channels?session_id=2dfd4d9814764a13ba968d326f5552db (79.195.223.42): Kernel does not exist: b109a13a-e6a4-432c-82a9-55450cc90d5d
+[W 18:05:50.512 NotebookApp] 404 GET /api/kernels/b109a13a-e6a4-432c-82a9-55450cc90d5d/channels?session_id=2dfd4d9814764a13ba968d326f5552db (79.195.223.42) 1.89ms referer=None
+[W 18:05:53.602 NotebookApp] Replacing stale connection: b109a13a-e6a4-432c-82a9-55450cc90d5d:2dfd4d9814764a13ba968d326f5552db
+[W 18:08:20.269 NotebookApp] WebSocket ping timeout after 119930 ms.
+[W 18:08:20.331 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 18:08:20.393 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 18:08:20.454 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 18:08:25.332 NotebookApp] Starting buffering for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[I 18:08:25.394 NotebookApp] Starting buffering for e26a7c67-2330-4f55-b617-eceb067386d2:6b54ee735acf4c3a8754c80f94ed211f
+[I 18:08:25.455 NotebookApp] Starting buffering for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[W 07:45:11.870 NotebookApp] Replacing stale connection: b109a13a-e6a4-432c-82a9-55450cc90d5d:2dfd4d9814764a13ba968d326f5552db
+[W 07:49:20.514 NotebookApp] Replacing stale connection: b109a13a-e6a4-432c-82a9-55450cc90d5d:2dfd4d9814764a13ba968d326f5552db
+[I 07:53:20.543 NotebookApp] Restoring connection for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[I 07:53:20.583 NotebookApp] Restoring connection for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[W 07:53:39.998 NotebookApp] Replacing stale connection: b109a13a-e6a4-432c-82a9-55450cc90d5d:2dfd4d9814764a13ba968d326f5552db
+[W 07:58:12.505 NotebookApp] Replacing stale connection: b109a13a-e6a4-432c-82a9-55450cc90d5d:2dfd4d9814764a13ba968d326f5552db
+[W 08:03:17.534 NotebookApp] Replacing stale connection: b109a13a-e6a4-432c-82a9-55450cc90d5d:2dfd4d9814764a13ba968d326f5552db
+[W 08:04:29.529 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 08:04:30.259 NotebookApp] Kernel started: 31faac50-12a1-4820-a09b-14b9f0bdf304
+[W 08:04:30.261 NotebookApp] 404 GET /notebooks/rgb.gif (100.74.198.254): No such file or directory: rgb.gif
+[W 08:04:30.262 NotebookApp] 404 GET /notebooks/rgb.gif (100.74.198.254) 1.46ms referer=http://i008.ddns.net:8989/notebooks/4-convolutions.ipynb
+[I 08:06:51.626 NotebookApp] Starting buffering for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[I 08:06:51.627 NotebookApp] Starting buffering for e26a7c67-2330-4f55-b617-eceb067386d2:6b54ee735acf4c3a8754c80f94ed211f
+[I 08:06:51.627 NotebookApp] Starting buffering for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[I 08:06:53.863 NotebookApp] Restoring connection for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[I 08:06:53.882 NotebookApp] Restoring connection for e26a7c67-2330-4f55-b617-eceb067386d2:6b54ee735acf4c3a8754c80f94ed211f
+[I 08:06:53.905 NotebookApp] Restoring connection for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[W 08:08:21.646 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:08:23.865 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 08:08:23.882 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:08:23.906 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 08:08:26.647 NotebookApp] Starting buffering for 31faac50-12a1-4820-a09b-14b9f0bdf304:70400b0aa6404485bc8ce383af6dbfbd
+[I 08:08:28.867 NotebookApp] Starting buffering for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[I 08:08:28.884 NotebookApp] Starting buffering for e26a7c67-2330-4f55-b617-eceb067386d2:6b54ee735acf4c3a8754c80f94ed211f
+[I 08:08:28.906 NotebookApp] Starting buffering for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[I 09:18:29.134 NotebookApp] 302 GET / (79.195.223.42) 0.30ms
+[I 09:28:29.391 NotebookApp] Restoring connection for 31faac50-12a1-4820-a09b-14b9f0bdf304:70400b0aa6404485bc8ce383af6dbfbd
+[I 09:28:31.355 NotebookApp] Restoring connection for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[I 09:28:31.416 NotebookApp] Restoring connection for e26a7c67-2330-4f55-b617-eceb067386d2:6b54ee735acf4c3a8754c80f94ed211f
+[I 09:28:31.473 NotebookApp] Restoring connection for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[I 09:35:29.637 NotebookApp] Starting buffering for ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0:30acea21b8ff43e6adb24ccf331c19f2
+[I 09:35:29.664 NotebookApp] Starting buffering for e26a7c67-2330-4f55-b617-eceb067386d2:6b54ee735acf4c3a8754c80f94ed211f
+[I 09:35:29.670 NotebookApp] Starting buffering for 3b169d57-b915-46bc-b5a4-e1339453e4ad:6658f356472c458a8d81be21d9b0f57a
+[I 09:35:29.685 NotebookApp] Starting buffering for 31faac50-12a1-4820-a09b-14b9f0bdf304:70400b0aa6404485bc8ce383af6dbfbd
+[I 09:35:37.834 NotebookApp] Kernel shutdown: 2e70e755-2c4a-4a73-a748-ac57ef5e9164
+[W 09:35:37.839 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42): Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.839 NotebookApp] Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.839 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42) 2.64ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:37.863 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42): Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.863 NotebookApp] Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.863 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42) 26.57ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:37.864 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42): Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.864 NotebookApp] Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.864 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42) 26.69ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:37.864 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42): Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.864 NotebookApp] Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.864 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42) 26.73ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:37.864 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42): Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.865 NotebookApp] Session not found: session_id='536705a0-2ff8-44ff-9bc5-d1c6a375adc9'
+[W 09:35:37.865 NotebookApp] 404 DELETE /api/sessions/536705a0-2ff8-44ff-9bc5-d1c6a375adc9 (79.195.223.42) 26.38ms referer=http://i008.ddns.net:8989/tree
+[I 09:35:38.334 NotebookApp] Kernel shutdown: d604c81c-36d7-4f17-816b-adc3521cbeff
+[W 09:35:38.335 NotebookApp] 404 DELETE /api/sessions/668a12f1-7ea3-4f26-9572-776fb93fe72b (79.195.223.42): Session not found: session_id='668a12f1-7ea3-4f26-9572-776fb93fe72b'
+[W 09:35:38.335 NotebookApp] Session not found: session_id='668a12f1-7ea3-4f26-9572-776fb93fe72b'
+[W 09:35:38.335 NotebookApp] 404 DELETE /api/sessions/668a12f1-7ea3-4f26-9572-776fb93fe72b (79.195.223.42) 0.64ms referer=http://i008.ddns.net:8989/tree
+[I 09:35:39.309 NotebookApp] Kernel shutdown: c50273ff-b581-4d4e-be60-dc5967b82d99
+[W 09:35:39.311 NotebookApp] 404 DELETE /api/sessions/dde0e4aa-df78-4514-a9db-32009310571a (79.195.223.42): Session not found: session_id='dde0e4aa-df78-4514-a9db-32009310571a'
+[W 09:35:39.311 NotebookApp] Session not found: session_id='dde0e4aa-df78-4514-a9db-32009310571a'
+[W 09:35:39.311 NotebookApp] 404 DELETE /api/sessions/dde0e4aa-df78-4514-a9db-32009310571a (79.195.223.42) 1.45ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:39.311 NotebookApp] 404 DELETE /api/sessions/dde0e4aa-df78-4514-a9db-32009310571a (79.195.223.42): Session not found: session_id='dde0e4aa-df78-4514-a9db-32009310571a'
+[W 09:35:39.312 NotebookApp] Session not found: session_id='dde0e4aa-df78-4514-a9db-32009310571a'
+[W 09:35:39.312 NotebookApp] 404 DELETE /api/sessions/dde0e4aa-df78-4514-a9db-32009310571a (79.195.223.42) 1.53ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:39.312 NotebookApp] 404 DELETE /api/sessions/dde0e4aa-df78-4514-a9db-32009310571a (79.195.223.42): Session not found: session_id='dde0e4aa-df78-4514-a9db-32009310571a'
+[W 09:35:39.312 NotebookApp] Session not found: session_id='dde0e4aa-df78-4514-a9db-32009310571a'
+[W 09:35:39.312 NotebookApp] 404 DELETE /api/sessions/dde0e4aa-df78-4514-a9db-32009310571a (79.195.223.42) 1.75ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:39.312 NotebookApp] 404 DELETE /api/sessions/dde0e4aa-df78-4514-a9db-32009310571a (79.195.223.42): Session not found: session_id='dde0e4aa-df78-4514-a9db-32009310571a'
+[W 09:35:39.313 NotebookApp] Session not found: session_id='dde0e4aa-df78-4514-a9db-32009310571a'
+[W 09:35:39.313 NotebookApp] 404 DELETE /api/sessions/dde0e4aa-df78-4514-a9db-32009310571a (79.195.223.42) 2.11ms referer=http://i008.ddns.net:8989/tree
+[I 09:35:39.824 NotebookApp] Kernel shutdown: d11ea758-0259-4e5f-9b27-64699f9e5c9f
+[W 09:35:39.828 NotebookApp] 404 DELETE /api/sessions/e68b3d07-e4ec-4481-9885-ca80eb58289f (79.195.223.42): Session not found: session_id='e68b3d07-e4ec-4481-9885-ca80eb58289f'
+[W 09:35:39.829 NotebookApp] Session not found: session_id='e68b3d07-e4ec-4481-9885-ca80eb58289f'
+[W 09:35:39.829 NotebookApp] 404 DELETE /api/sessions/e68b3d07-e4ec-4481-9885-ca80eb58289f (79.195.223.42) 0.77ms referer=http://i008.ddns.net:8989/tree
+[I 09:35:40.730 NotebookApp] Kernel shutdown: c4bd8ded-b750-446f-bd2d-415252309f0a
+[W 09:35:40.732 NotebookApp] 404 DELETE /api/sessions/ec9c8693-a47d-453c-a369-81b9b71f5b95 (79.195.223.42): Session not found: session_id='ec9c8693-a47d-453c-a369-81b9b71f5b95'
+[W 09:35:40.732 NotebookApp] Session not found: session_id='ec9c8693-a47d-453c-a369-81b9b71f5b95'
+[W 09:35:40.732 NotebookApp] 404 DELETE /api/sessions/ec9c8693-a47d-453c-a369-81b9b71f5b95 (79.195.223.42) 1.15ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:40.733 NotebookApp] 404 DELETE /api/sessions/ec9c8693-a47d-453c-a369-81b9b71f5b95 (79.195.223.42): Session not found: session_id='ec9c8693-a47d-453c-a369-81b9b71f5b95'
+[W 09:35:40.733 NotebookApp] Session not found: session_id='ec9c8693-a47d-453c-a369-81b9b71f5b95'
+[W 09:35:40.733 NotebookApp] 404 DELETE /api/sessions/ec9c8693-a47d-453c-a369-81b9b71f5b95 (79.195.223.42) 1.26ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:40.733 NotebookApp] 404 DELETE /api/sessions/ec9c8693-a47d-453c-a369-81b9b71f5b95 (79.195.223.42): Session not found: session_id='ec9c8693-a47d-453c-a369-81b9b71f5b95'
+[W 09:35:40.733 NotebookApp] Session not found: session_id='ec9c8693-a47d-453c-a369-81b9b71f5b95'
+[W 09:35:40.733 NotebookApp] 404 DELETE /api/sessions/ec9c8693-a47d-453c-a369-81b9b71f5b95 (79.195.223.42) 1.45ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:40.766 NotebookApp] 404 DELETE /api/sessions/ec9c8693-a47d-453c-a369-81b9b71f5b95 (79.195.223.42): Session not found: session_id='ec9c8693-a47d-453c-a369-81b9b71f5b95'
+[W 09:35:40.766 NotebookApp] Session not found: session_id='ec9c8693-a47d-453c-a369-81b9b71f5b95'
+[W 09:35:40.766 NotebookApp] 404 DELETE /api/sessions/ec9c8693-a47d-453c-a369-81b9b71f5b95 (79.195.223.42) 0.64ms referer=http://i008.ddns.net:8989/tree
+[I 09:35:41.137 NotebookApp] Kernel shutdown: 73e5fd50-9eee-46bf-8dd5-9060d36ccabf
+[I 09:35:41.772 NotebookApp] Kernel shutdown: f2c4ff53-01ee-4403-a000-65f13ddc2420
+[W 09:35:41.773 NotebookApp] 404 DELETE /api/sessions/a7a0fd5e-ace4-4a38-bb39-bcb0a5f0fdcf (79.195.223.42): Session not found: session_id='a7a0fd5e-ace4-4a38-bb39-bcb0a5f0fdcf'
+[W 09:35:41.773 NotebookApp] Session not found: session_id='a7a0fd5e-ace4-4a38-bb39-bcb0a5f0fdcf'
+[W 09:35:41.773 NotebookApp] 404 DELETE /api/sessions/a7a0fd5e-ace4-4a38-bb39-bcb0a5f0fdcf (79.195.223.42) 0.65ms referer=http://i008.ddns.net:8989/tree
+[I 09:35:42.662 NotebookApp] Kernel shutdown: ea507a18-d8be-44c7-99b2-d1c1cb6d0fb0
+[W 09:35:42.664 NotebookApp] 404 DELETE /api/sessions/ded8268a-32ab-4568-8115-5ad7e4eaa674 (79.195.223.42): Session not found: session_id='ded8268a-32ab-4568-8115-5ad7e4eaa674'
+[W 09:35:42.664 NotebookApp] Session not found: session_id='ded8268a-32ab-4568-8115-5ad7e4eaa674'
+[W 09:35:42.664 NotebookApp] 404 DELETE /api/sessions/ded8268a-32ab-4568-8115-5ad7e4eaa674 (79.195.223.42) 1.18ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:42.664 NotebookApp] 404 DELETE /api/sessions/ded8268a-32ab-4568-8115-5ad7e4eaa674 (79.195.223.42): Session not found: session_id='ded8268a-32ab-4568-8115-5ad7e4eaa674'
+[W 09:35:42.665 NotebookApp] Session not found: session_id='ded8268a-32ab-4568-8115-5ad7e4eaa674'
+[W 09:35:42.665 NotebookApp] 404 DELETE /api/sessions/ded8268a-32ab-4568-8115-5ad7e4eaa674 (79.195.223.42) 1.29ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:42.665 NotebookApp] 404 DELETE /api/sessions/ded8268a-32ab-4568-8115-5ad7e4eaa674 (79.195.223.42): Session not found: session_id='ded8268a-32ab-4568-8115-5ad7e4eaa674'
+[W 09:35:42.665 NotebookApp] Session not found: session_id='ded8268a-32ab-4568-8115-5ad7e4eaa674'
+[W 09:35:42.665 NotebookApp] 404 DELETE /api/sessions/ded8268a-32ab-4568-8115-5ad7e4eaa674 (79.195.223.42) 1.45ms referer=http://i008.ddns.net:8989/tree
+[I 09:35:43.637 NotebookApp] Kernel shutdown: e26a7c67-2330-4f55-b617-eceb067386d2
+[W 09:35:43.639 NotebookApp] 404 DELETE /api/sessions/f341f2fd-bffc-438b-ab74-45b767a56f75 (79.195.223.42): Session not found: session_id='f341f2fd-bffc-438b-ab74-45b767a56f75'
+[W 09:35:43.639 NotebookApp] Session not found: session_id='f341f2fd-bffc-438b-ab74-45b767a56f75'
+[W 09:35:43.639 NotebookApp] 404 DELETE /api/sessions/f341f2fd-bffc-438b-ab74-45b767a56f75 (79.195.223.42) 1.04ms referer=http://i008.ddns.net:8989/tree
+[W 09:35:43.639 NotebookApp] 404 DELETE /api/sessions/f341f2fd-bffc-438b-ab74-45b767a56f75 (79.195.223.42): Session not found: session_id='f341f2fd-bffc-438b-ab74-45b767a56f75'
+[W 09:35:43.639 NotebookApp] Session not found: session_id='f341f2fd-bffc-438b-ab74-45b767a56f75'
+[W 09:35:43.640 NotebookApp] 404 DELETE /api/sessions/f341f2fd-bffc-438b-ab74-45b767a56f75 (79.195.223.42) 1.13ms referer=http://i008.ddns.net:8989/tree
+[I 09:35:44.104 NotebookApp] Kernel shutdown: 3b169d57-b915-46bc-b5a4-e1339453e4ad
+[I 09:35:44.662 NotebookApp] Kernel shutdown: 31faac50-12a1-4820-a09b-14b9f0bdf304
+[W 09:38:57.233 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:38:57.647 NotebookApp] Kernel started: e2674f7e-2358-4dfa-bea2-ccb113abfb13
+[W 09:38:58.756 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 09:39:00.996 NotebookApp] Kernel started: 714f4544-d751-470a-ab07-0d2d9712dc72
+[W 09:39:00.999 NotebookApp] 404 GET /notebooks/rgb.gif (79.195.223.42): No such file or directory: rgb.gif
+[W 09:39:00.999 NotebookApp] 404 GET /notebooks/rgb.gif (79.195.223.42) 1.42ms referer=http://i008.ddns.net:8989/notebooks/4-convolutions.ipynb
+[I 09:39:22.171 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:39:22.175 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:39:22.299 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:39:22.299 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:40:05.886 NotebookApp] Kernel interrupted: e2674f7e-2358-4dfa-bea2-ccb113abfb13
+[I 09:40:12.592 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:40:12.592 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:40:12.739 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:40:12.739 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:40:12.899 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:40:12.899 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:40:13.040 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:40:13.040 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:40:13.225 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:40:13.225 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:41:48.859 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:41:48.859 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:41:49.017 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:41:49.018 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:41:49.175 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:41:49.175 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:41:49.370 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:41:49.370 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:44:57.689 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 09:44:57.689 NotebookApp] Notebook 3-Python-refresher-jupyter-tips-and-tricks.ipynb is not trusted
+[I 09:46:57.696 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 09:48:37.911 NotebookApp] Kernel started: cd9f5201-b53c-43f6-8ce1-20375ce53935
+[I 09:48:57.706 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 09:50:57.690 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 09:52:57.676 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 09:54:57.672 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 09:56:57.673 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 09:59:21.033 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 09:59:36.642 NotebookApp] Starting buffering for e2674f7e-2358-4dfa-bea2-ccb113abfb13:bfb099b2bcd6432194988e959ccf2593
+[I 09:59:36.949 NotebookApp] Kernel restarted: e2674f7e-2358-4dfa-bea2-ccb113abfb13
+[I 09:59:37.530 NotebookApp] Restoring connection for e2674f7e-2358-4dfa-bea2-ccb113abfb13:bfb099b2bcd6432194988e959ccf2593
+[I 09:59:37.530 NotebookApp] Replaying 3 buffered messages
+[W 10:00:31.310 NotebookApp] WebSocket ping timeout after 119978 ms.
+[I 10:00:36.312 NotebookApp] Starting buffering for 714f4544-d751-470a-ab07-0d2d9712dc72:9afeff71a9634fd5bc11bc0d568c6471
+[I 10:00:38.344 NotebookApp] Restoring connection for 714f4544-d751-470a-ab07-0d2d9712dc72:9afeff71a9634fd5bc11bc0d568c6471
+[W 10:00:38.351 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 10:00:43.353 NotebookApp] Starting buffering for cd9f5201-b53c-43f6-8ce1-20375ce53935:17cb6196e29847e0866dea1c2d555b44
+[I 10:01:47.281 NotebookApp] Kernel interrupted: e2674f7e-2358-4dfa-bea2-ccb113abfb13
+[I 10:01:49.587 NotebookApp] Starting buffering for e2674f7e-2358-4dfa-bea2-ccb113abfb13:bfb099b2bcd6432194988e959ccf2593
+[I 10:01:49.796 NotebookApp] Kernel restarted: e2674f7e-2358-4dfa-bea2-ccb113abfb13
+[I 10:01:50.266 NotebookApp] Restoring connection for e2674f7e-2358-4dfa-bea2-ccb113abfb13:bfb099b2bcd6432194988e959ccf2593
+[I 10:01:50.266 NotebookApp] Replaying 6 buffered messages
+[W 10:03:08.345 NotebookApp] WebSocket ping timeout after 119887 ms.
+[I 10:03:13.347 NotebookApp] Starting buffering for 714f4544-d751-470a-ab07-0d2d9712dc72:9afeff71a9634fd5bc11bc0d568c6471
+[I 10:03:16.249 NotebookApp] Restoring connection for 714f4544-d751-470a-ab07-0d2d9712dc72:9afeff71a9634fd5bc11bc0d568c6471
+[I 10:03:21.230 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 10:07:21.351 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 10:09:49.809 NotebookApp] Restoring connection for cd9f5201-b53c-43f6-8ce1-20375ce53935:17cb6196e29847e0866dea1c2d555b44
+[I 10:53:01.562 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 10:53:01.562 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 10:53:01.622 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 10:53:01.622 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 10:53:01.920 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 10:53:01.920 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 10:53:02.168 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 10:53:02.168 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 10:57:01.222 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 10:57:01.223 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 10:59:01.217 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 10:59:01.217 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:01:01.211 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:01:01.212 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:03:01.211 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:03:01.212 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:05:01.322 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:05:01.322 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:07:01.360 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:07:01.360 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:11:01.338 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:11:01.339 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:13:01.198 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:13:01.199 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:15:01.203 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:15:01.204 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:19:01.192 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:19:01.192 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:21:01.387 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:21:01.387 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:41:01.297 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:41:01.297 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:43:01.299 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:43:01.299 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:45:01.176 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:45:01.176 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:51:01.657 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:51:01.657 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 11:51:14.192 NotebookApp] Kernel started: 9bc2ee0f-f3b8-41a6-a197-e47259f7e936
+[I 11:51:14.195 NotebookApp] 302 GET /notebooks/static/vgg.png (79.195.223.42) 0.97ms
+[I 11:55:01.273 NotebookApp] Saving file at /4-convolutions.ipynb
+[W 11:55:01.274 NotebookApp] Notebook 4-convolutions.ipynb is not trusted
+[I 12:16:43.587 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 12:16:43.726 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 12:19:21.047 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 12:23:21.196 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[I 12:24:38.609 NotebookApp] 302 GET /notebooks/static/vgg.png (79.195.223.42) 0.49ms
+[I 12:26:38.739 NotebookApp] Saving file at /5-neural-network-from-diagram.ipynb
+[I 12:27:21.185 NotebookApp] Saving file at /3-Python-refresher-jupyter-tips-and-tricks.ipynb
+[W 12:29:22.085 NotebookApp] Notebook solutions/5-neural-network-from-diagram-solution.ipynb is not trusted
+[W 12:29:22.457 NotebookApp] 404 GET /notebooks/solutions/static/vgg.png (79.195.223.42): No such file or directory: solutions/static/vgg.png
+[W 12:29:22.458 NotebookApp] 404 GET /notebooks/solutions/static/vgg.png (79.195.223.42) 1.22ms referer=http://i008.ddns.net:8989/notebooks/solutions/5-neural-network-from-diagram-solution.ipynb
+[I 12:29:27.634 NotebookApp] Kernel started: b5fc85a9-bc83-4181-a937-34cc871ccce6
+[I 12:30:39.279 NotebookApp] Saving file at /5-neural-network-from-diagram.ipynb
+[I 12:31:23.219 NotebookApp] Saving file at /solutions/5-neural-network-from-diagram-solution.ipynb
+[W 12:31:23.219 NotebookApp] Notebook solutions/5-neural-network-from-diagram-solution.ipynb is not trusted
+[I 12:57:22.695 NotebookApp] Saving file at /solutions/5-neural-network-from-diagram-solution.ipynb
+[W 12:57:22.695 NotebookApp] Notebook solutions/5-neural-network-from-diagram-solution.ipynb is not trusted
+[I 12:59:22.515 NotebookApp] Saving file at /solutions/5-neural-network-from-diagram-solution.ipynb
+[I 13:00:38.651 NotebookApp] Saving file at /5-neural-network-from-diagram.ipynb
+[I 13:02:04.519 NotebookApp] Starting buffering for 714f4544-d751-470a-ab07-0d2d9712dc72:9afeff71a9634fd5bc11bc0d568c6471
+[I 13:02:07.754 NotebookApp] Restoring connection for 714f4544-d751-470a-ab07-0d2d9712dc72:9afeff71a9634fd5bc11bc0d568c6471
+[I 13:02:52.103 NotebookApp] Kernel restarted: b5fc85a9-bc83-4181-a937-34cc871ccce6
+[I 13:02:53.054 NotebookApp] Starting buffering for b5fc85a9-bc83-4181-a937-34cc871ccce6:4b8f9938ed9148a7b62c429fbaa84456
+[I 13:03:09.378 NotebookApp] Saving file at /solutions/5-neural-network-from-diagram-solution.ipynb
+[I 13:03:14.355 NotebookApp] Kernel restarted: b5fc85a9-bc83-4181-a937-34cc871ccce6
+[I 13:03:14.901 NotebookApp] Restoring connection for b5fc85a9-bc83-4181-a937-34cc871ccce6:4b8f9938ed9148a7b62c429fbaa84456
+[I 13:03:14.901 NotebookApp] Replaying 5 buffered messages
+[I 13:03:19.257 NotebookApp] Starting buffering for b5fc85a9-bc83-4181-a937-34cc871ccce6:4b8f9938ed9148a7b62c429fbaa84456
+[I 13:03:19.863 NotebookApp] Kernel shutdown: b5fc85a9-bc83-4181-a937-34cc871ccce6
+[W 13:03:19.864 NotebookApp] WebSocket ping timeout after 120036 ms.
+[I 13:03:20.443 NotebookApp] Kernel started: 400cd51e-21e9-47c9-9352-4e7833a23130
+[W 13:03:20.444 NotebookApp] WebSocket ping timeout after 120160 ms.
+[I 13:03:22.608 NotebookApp] Saving file at /solutions/5-neural-network-from-diagram-solution.ipynb
+[I 13:03:24.865 NotebookApp] Starting buffering for cd9f5201-b53c-43f6-8ce1-20375ce53935:17cb6196e29847e0866dea1c2d555b44
+[I 13:03:25.445 NotebookApp] Starting buffering for e2674f7e-2358-4dfa-bea2-ccb113abfb13:bfb099b2bcd6432194988e959ccf2593
+[I 13:03:26.273 NotebookApp] Restoring connection for cd9f5201-b53c-43f6-8ce1-20375ce53935:17cb6196e29847e0866dea1c2d555b44
+[I 13:03:27.184 NotebookApp] Starting buffering for 400cd51e-21e9-47c9-9352-4e7833a23130:4b8f9938ed9148a7b62c429fbaa84456
+[I 13:03:27.294 NotebookApp] Restoring connection for e2674f7e-2358-4dfa-bea2-ccb113abfb13:bfb099b2bcd6432194988e959ccf2593
+[W 13:03:29.102 NotebookApp] 404 GET /notebooks/solutions/static/vgg.png (79.195.223.42): No such file or directory: solutions/static/vgg.png
+[W 13:03:29.102 NotebookApp] 404 GET /notebooks/solutions/static/vgg.png (79.195.223.42) 0.84ms referer=http://i008.ddns.net:8989/notebooks/solutions/5-neural-network-from-diagram-solution.ipynb
+[I 13:03:36.276 NotebookApp] Starting buffering for cd9f5201-b53c-43f6-8ce1-20375ce53935:17cb6196e29847e0866dea1c2d555b44
+[I 13:03:36.280 NotebookApp] Starting buffering for e2674f7e-2358-4dfa-bea2-ccb113abfb13:bfb099b2bcd6432194988e959ccf2593
+[I 13:03:36.289 NotebookApp] Starting buffering for 714f4544-d751-470a-ab07-0d2d9712dc72:9afeff71a9634fd5bc11bc0d568c6471
+[I 13:03:36.298 NotebookApp] Starting buffering for 9bc2ee0f-f3b8-41a6-a197-e47259f7e936:b53d2ff5c8844bdaa813a01a4b78100a
+[I 13:04:09.655 NotebookApp] Kernel shutdown: e2674f7e-2358-4dfa-bea2-ccb113abfb13
+[W 13:04:09.657 NotebookApp] 404 DELETE /api/sessions/ed3f1066-05b3-44eb-8b75-36a93240be42 (79.195.223.42): Session not found: session_id='ed3f1066-05b3-44eb-8b75-36a93240be42'
+[W 13:04:09.657 NotebookApp] Session not found: session_id='ed3f1066-05b3-44eb-8b75-36a93240be42'
+[W 13:04:09.657 NotebookApp] 404 DELETE /api/sessions/ed3f1066-05b3-44eb-8b75-36a93240be42 (79.195.223.42) 1.01ms referer=http://i008.ddns.net:8989/tree
+[W 13:04:09.657 NotebookApp] 404 DELETE /api/sessions/ed3f1066-05b3-44eb-8b75-36a93240be42 (79.195.223.42): Session not found: session_id='ed3f1066-05b3-44eb-8b75-36a93240be42'
+[W 13:04:09.658 NotebookApp] Session not found: session_id='ed3f1066-05b3-44eb-8b75-36a93240be42'
+[W 13:04:09.658 NotebookApp] 404 DELETE /api/sessions/ed3f1066-05b3-44eb-8b75-36a93240be42 (79.195.223.42) 1.11ms referer=http://i008.ddns.net:8989/tree
+[I 13:04:34.009 NotebookApp] Starting buffering for 400cd51e-21e9-47c9-9352-4e7833a23130:f7e07b5ab7774ddb88dd69c6e006ca59
+[W 13:04:34.064 NotebookApp] 404 DELETE /api/sessions/ed3f1066-05b3-44eb-8b75-36a93240be42 (79.195.223.42): Session not found: session_id='ed3f1066-05b3-44eb-8b75-36a93240be42'
+[W 13:04:34.064 NotebookApp] Session not found: session_id='ed3f1066-05b3-44eb-8b75-36a93240be42'
+[W 13:04:34.064 NotebookApp] 404 DELETE /api/sessions/ed3f1066-05b3-44eb-8b75-36a93240be42 (79.195.223.42) 0.75ms referer=http://i008.ddns.net:8989/tree
+[I 13:04:37.313 NotebookApp] Kernel shutdown: 714f4544-d751-470a-ab07-0d2d9712dc72
+[I 13:04:37.975 NotebookApp] Kernel shutdown: 9bc2ee0f-f3b8-41a6-a197-e47259f7e936
+[I 13:04:39.676 NotebookApp] Kernel shutdown: cd9f5201-b53c-43f6-8ce1-20375ce53935
+[I 13:04:41.242 NotebookApp] Kernel shutdown: 400cd51e-21e9-47c9-9352-4e7833a23130
+[I 14:00:53.360 NotebookApp] Kernel started: 6da5c4cd-36bd-4d80-87fd-69b2e89a125a
+[I 14:00:53.379 NotebookApp] 302 GET /notebooks/static/vgg.png (79.195.223.42) 0.70ms
+[I 14:01:12.400 NotebookApp] Kernel started: 3700ad5c-baa5-4522-939e-ae94016d1f62
+[I 14:02:06.234 NotebookApp] Kernel started: 733d1d87-305f-4d95-ac07-6c6e4aad933e
+[W 14:02:14.923 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 14:02:15.435 NotebookApp] Kernel started: aa80d731-759d-4e38-b792-30d353128966
+[I 14:02:15.438 NotebookApp] 302 GET /notebooks/static/sneakers.png (79.195.223.42) 0.93ms
+[I 14:19:13.092 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:25:13.149 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:27:12.938 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:29:12.941 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:31:12.935 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:33:12.932 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:37:12.928 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:39:12.925 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:41:13.019 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:43:12.909 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:47:12.915 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:57:13.023 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 14:59:12.895 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 15:01:12.910 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 15:03:12.920 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 15:05:12.906 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 15:19:13.088 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 15:23:12.883 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[W 17:29:46.235 NotebookApp] Notebook 5.2-fmnist-ignite.ipynb is not trusted
+[I 17:29:47.976 NotebookApp] Kernel started: f4ee4dcf-4e42-45cd-b578-37e0b3ccc063
+[I 17:31:49.047 NotebookApp] Saving file at /5.2-fmnist-ignite.ipynb
+[I 17:31:58.171 NotebookApp] Kernel started: a6a1e0e0-194c-4453-9015-73706f496204
+[I 17:31:58.174 NotebookApp] 302 GET /notebooks/static/bn_eq.png (79.195.223.42) 0.92ms
+[I 17:33:58.971 NotebookApp] Saving file at /4.1-batchnom.ipynb
+[I 17:37:12.775 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 17:39:12.742 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 17:41:13.433 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 17:41:35.248 NotebookApp] Kernel started: d46ae7db-2908-466f-b6c7-e1b913ba7a50
+[I 17:41:35.251 NotebookApp] 302 GET /notebooks/static/gradcam.jpg (79.195.223.42) 0.96ms
+[I 17:43:36.000 NotebookApp] Saving file at /grad-cam.ipynb
+[I 17:45:14.057 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 17:50:39.708 NotebookApp] Kernel interrupted: 3700ad5c-baa5-4522-939e-ae94016d1f62
+[I 17:51:13.060 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 17:53:13.180 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 17:55:15.172 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 17:57:18.183 NotebookApp] Saving file at /5.1-pytorch-fmnist.ipynb
+[I 18:02:36.483 NotebookApp] Starting buffering for f4ee4dcf-4e42-45cd-b578-37e0b3ccc063:d185d4beccbe431698290a6a18f48e9b
+[I 18:02:38.597 NotebookApp] Restoring connection for f4ee4dcf-4e42-45cd-b578-37e0b3ccc063:d185d4beccbe431698290a6a18f48e9b
+[I 18:02:39.731 NotebookApp] Starting buffering for aa80d731-759d-4e38-b792-30d353128966:a4342d3748764d15baee23e38fe30033
+[I 18:02:41.466 NotebookApp] Restoring connection for aa80d731-759d-4e38-b792-30d353128966:a4342d3748764d15baee23e38fe30033
+[W 18:05:08.599 NotebookApp] WebSocket ping timeout after 119891 ms.
+[W 18:05:11.466 NotebookApp] WebSocket ping timeout after 119795 ms.
+[I 18:05:13.601 NotebookApp] Starting buffering for f4ee4dcf-4e42-45cd-b578-37e0b3ccc063:d185d4beccbe431698290a6a18f48e9b
+[I 18:05:16.001 NotebookApp] Restoring connection for f4ee4dcf-4e42-45cd-b578-37e0b3ccc063:d185d4beccbe431698290a6a18f48e9b
+[I 18:05:16.467 NotebookApp] Starting buffering for aa80d731-759d-4e38-b792-30d353128966:a4342d3748764d15baee23e38fe30033
+[I 18:05:18.267 NotebookApp] Restoring connection for aa80d731-759d-4e38-b792-30d353128966:a4342d3748764d15baee23e38fe30033
+[I 18:06:57.102 NotebookApp] Starting buffering for f4ee4dcf-4e42-45cd-b578-37e0b3ccc063:d185d4beccbe431698290a6a18f48e9b
+[I 18:06:57.116 NotebookApp] Starting buffering for aa80d731-759d-4e38-b792-30d353128966:a4342d3748764d15baee23e38fe30033
+[I 18:06:57.116 NotebookApp] Starting buffering for d46ae7db-2908-466f-b6c7-e1b913ba7a50:d549a275a9e543c18203c7e5a0b7bdd9
+[I 18:06:57.116 NotebookApp] Starting buffering for a6a1e0e0-194c-4453-9015-73706f496204:170aab7fd1e544d781983bdd8edfdea2
+[I 18:06:57.117 NotebookApp] Starting buffering for 733d1d87-305f-4d95-ac07-6c6e4aad933e:829ad69294a744d787c59c8413abbe57
+[I 18:06:57.117 NotebookApp] Starting buffering for 6da5c4cd-36bd-4d80-87fd-69b2e89a125a:9cc2d7a7b392476f806d091104eed8cf
+[I 18:06:57.117 NotebookApp] Starting buffering for 3700ad5c-baa5-4522-939e-ae94016d1f62:f77c9347306e451b8b0a64bd9ed391b6
+[I 18:06:59.397 NotebookApp] Restoring connection for 733d1d87-305f-4d95-ac07-6c6e4aad933e:829ad69294a744d787c59c8413abbe57
+[I 18:06:59.457 NotebookApp] Restoring connection for f4ee4dcf-4e42-45cd-b578-37e0b3ccc063:d185d4beccbe431698290a6a18f48e9b
+[I 18:06:59.527 NotebookApp] Restoring connection for aa80d731-759d-4e38-b792-30d353128966:a4342d3748764d15baee23e38fe30033
+[I 18:06:59.587 NotebookApp] Restoring connection for d46ae7db-2908-466f-b6c7-e1b913ba7a50:d549a275a9e543c18203c7e5a0b7bdd9
+[I 18:06:59.649 NotebookApp] Restoring connection for a6a1e0e0-194c-4453-9015-73706f496204:170aab7fd1e544d781983bdd8edfdea2
+[I 18:06:59.715 NotebookApp] Restoring connection for 6da5c4cd-36bd-4d80-87fd-69b2e89a125a:9cc2d7a7b392476f806d091104eed8cf
+[I 18:06:59.773 NotebookApp] Restoring connection for 3700ad5c-baa5-4522-939e-ae94016d1f62:f77c9347306e451b8b0a64bd9ed391b6
+[W 18:08:29.398 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:08:29.459 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 18:08:29.527 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:08:29.587 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:08:29.650 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:08:29.716 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:08:29.773 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 18:08:34.399 NotebookApp] Starting buffering for 733d1d87-305f-4d95-ac07-6c6e4aad933e:829ad69294a744d787c59c8413abbe57
+[I 18:08:34.460 NotebookApp] Starting buffering for f4ee4dcf-4e42-45cd-b578-37e0b3ccc063:d185d4beccbe431698290a6a18f48e9b
+[I 18:08:34.528 NotebookApp] Starting buffering for aa80d731-759d-4e38-b792-30d353128966:a4342d3748764d15baee23e38fe30033
+[I 18:08:34.589 NotebookApp] Starting buffering for d46ae7db-2908-466f-b6c7-e1b913ba7a50:d549a275a9e543c18203c7e5a0b7bdd9
+[I 18:08:34.650 NotebookApp] Starting buffering for a6a1e0e0-194c-4453-9015-73706f496204:170aab7fd1e544d781983bdd8edfdea2
+[I 18:08:34.717 NotebookApp] Starting buffering for 6da5c4cd-36bd-4d80-87fd-69b2e89a125a:9cc2d7a7b392476f806d091104eed8cf
+[I 18:08:34.774 NotebookApp] Starting buffering for 3700ad5c-baa5-4522-939e-ae94016d1f62:f77c9347306e451b8b0a64bd9ed391b6
+[I 22:52:09.832 NotebookApp] Saving file at /6-pytorch-fmnist-transfer-learning.ipynb
+[I 23:00:46.039 NotebookApp] 302 GET / (100.74.198.254) 0.28ms
+[W 21:21:35.488 NotebookApp] Forbidden
+[W 21:21:35.489 NotebookApp] 403 GET /api/sessions?_=1581720231702 (100.74.198.254) 3.62ms referer=http://i008.ddns.net:8989/tree?
+[W 21:21:35.490 NotebookApp] Forbidden
+[W 21:21:35.491 NotebookApp] 403 GET /api/terminals?_=1581720231703 (100.74.198.254) 3.96ms referer=http://i008.ddns.net:8989/tree?
+[I 23:33:41.501 NotebookApp] 302 GET / (100.74.198.254) 1.17ms
+[I 23:33:41.524 NotebookApp] 302 GET /tree? (100.74.198.254) 1.41ms
+[I 23:33:44.599 NotebookApp] 302 POST /login?next=%2Ftree%3F (100.74.198.254) 0.80ms
+[I 23:35:04.137 NotebookApp] 302 POST /login?next=%2Ftree%3F (100.74.198.254) 1.34ms
+[I 23:35:09.853 NotebookApp] Kernel shutdown: 6da5c4cd-36bd-4d80-87fd-69b2e89a125a
+[W 23:35:09.855 NotebookApp] 404 DELETE /api/sessions/54a83c5f-5aea-49ef-967b-d2f66e0300ab (100.74.198.254): Session not found: session_id='54a83c5f-5aea-49ef-967b-d2f66e0300ab'
+[W 23:35:09.855 NotebookApp] Session not found: session_id='54a83c5f-5aea-49ef-967b-d2f66e0300ab'
+[W 23:35:09.855 NotebookApp] 404 DELETE /api/sessions/54a83c5f-5aea-49ef-967b-d2f66e0300ab (100.74.198.254) 0.96ms referer=http://i008.ddns.net:8989/tree?
+[I 23:35:11.353 NotebookApp] Kernel shutdown: 3700ad5c-baa5-4522-939e-ae94016d1f62
+[W 23:35:11.356 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.356 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.357 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 2.17ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:11.357 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.357 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.357 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 2.38ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:11.358 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.358 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.358 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 2.64ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:11.358 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.358 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.358 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 2.92ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:11.359 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.359 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.359 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 3.30ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:11.360 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.361 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.361 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 0.96ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:11.364 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.364 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.364 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 1.41ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:11.366 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.366 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.366 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 1.41ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:11.368 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254): Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.368 NotebookApp] Session not found: session_id='986bc8f1-28ea-41ae-98c2-c30235d2c2f9'
+[W 23:35:11.368 NotebookApp] 404 DELETE /api/sessions/986bc8f1-28ea-41ae-98c2-c30235d2c2f9 (100.74.198.254) 1.37ms referer=http://i008.ddns.net:8989/tree?
+[I 23:35:11.878 NotebookApp] Kernel shutdown: 733d1d87-305f-4d95-ac07-6c6e4aad933e
+[W 23:35:11.882 NotebookApp] 404 DELETE /api/sessions/a6ce2de5-7189-46e7-9d7c-9869e4230665 (100.74.198.254): Session not found: session_id='a6ce2de5-7189-46e7-9d7c-9869e4230665'
+[W 23:35:11.883 NotebookApp] Session not found: session_id='a6ce2de5-7189-46e7-9d7c-9869e4230665'
+[W 23:35:11.883 NotebookApp] 404 DELETE /api/sessions/a6ce2de5-7189-46e7-9d7c-9869e4230665 (100.74.198.254) 2.73ms referer=http://i008.ddns.net:8989/tree?
+[I 23:35:12.333 NotebookApp] Kernel shutdown: aa80d731-759d-4e38-b792-30d353128966
+[W 23:35:12.337 NotebookApp] 404 DELETE /api/sessions/de72ad48-96f3-4f60-9199-43e3690574b3 (100.74.198.254): Session not found: session_id='de72ad48-96f3-4f60-9199-43e3690574b3'
+[W 23:35:12.337 NotebookApp] Session not found: session_id='de72ad48-96f3-4f60-9199-43e3690574b3'
+[W 23:35:12.338 NotebookApp] 404 DELETE /api/sessions/de72ad48-96f3-4f60-9199-43e3690574b3 (100.74.198.254) 2.78ms referer=http://i008.ddns.net:8989/tree?
+[I 23:35:13.089 NotebookApp] Kernel shutdown: f4ee4dcf-4e42-45cd-b578-37e0b3ccc063
+[W 23:35:13.093 NotebookApp] 404 DELETE /api/sessions/d062c733-c172-4781-8980-ecbf6caf9a20 (100.74.198.254): Session not found: session_id='d062c733-c172-4781-8980-ecbf6caf9a20'
+[W 23:35:13.093 NotebookApp] Session not found: session_id='d062c733-c172-4781-8980-ecbf6caf9a20'
+[W 23:35:13.093 NotebookApp] 404 DELETE /api/sessions/d062c733-c172-4781-8980-ecbf6caf9a20 (100.74.198.254) 2.23ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:13.094 NotebookApp] 404 DELETE /api/sessions/d062c733-c172-4781-8980-ecbf6caf9a20 (100.74.198.254): Session not found: session_id='d062c733-c172-4781-8980-ecbf6caf9a20'
+[W 23:35:13.094 NotebookApp] Session not found: session_id='d062c733-c172-4781-8980-ecbf6caf9a20'
+[W 23:35:13.094 NotebookApp] 404 DELETE /api/sessions/d062c733-c172-4781-8980-ecbf6caf9a20 (100.74.198.254) 2.75ms referer=http://i008.ddns.net:8989/tree?
+[W 23:35:13.114 NotebookApp] 404 DELETE /api/sessions/d062c733-c172-4781-8980-ecbf6caf9a20 (100.74.198.254): Session not found: session_id='d062c733-c172-4781-8980-ecbf6caf9a20'
+[W 23:35:13.115 NotebookApp] Session not found: session_id='d062c733-c172-4781-8980-ecbf6caf9a20'
+[W 23:35:13.115 NotebookApp] 404 DELETE /api/sessions/d062c733-c172-4781-8980-ecbf6caf9a20 (100.74.198.254) 1.80ms referer=http://i008.ddns.net:8989/tree?
+[I 23:35:13.785 NotebookApp] Kernel shutdown: a6a1e0e0-194c-4453-9015-73706f496204
+[W 23:35:13.809 NotebookApp] 404 DELETE /api/sessions/755a9976-cb0a-48a4-86dc-a65035e79a52 (100.74.198.254): Session not found: session_id='755a9976-cb0a-48a4-86dc-a65035e79a52'
+[W 23:35:13.809 NotebookApp] Session not found: session_id='755a9976-cb0a-48a4-86dc-a65035e79a52'
+[W 23:35:13.810 NotebookApp] 404 DELETE /api/sessions/755a9976-cb0a-48a4-86dc-a65035e79a52 (100.74.198.254) 2.71ms referer=http://i008.ddns.net:8989/tree?
+[I 23:35:14.571 NotebookApp] Kernel shutdown: d46ae7db-2908-466f-b6c7-e1b913ba7a50
+[I 00:19:55.187 NotebookApp] 302 GET / (100.74.198.254) 1.19ms
+[I 00:19:58.898 NotebookApp] Creating new notebook in 
+[I 00:20:00.140 NotebookApp] Kernel started: 8a52f412-17c9-4281-8573-89613c2cf44c
+[I 00:22:00.174 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:24:00.175 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:26:00.181 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:28:00.197 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:30:00.166 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:32:00.842 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:34:25.343 NotebookApp] Starting buffering for 8a52f412-17c9-4281-8573-89613c2cf44c:f9a30a07290347d7b58e74dc623e68e6
+[I 22:55:51.557 NotebookApp] 302 GET / (100.74.198.254) 0.69ms
+[I 22:56:05.619 NotebookApp] Kernel started: b03324be-ee12-406e-ab9d-f7913b93c3be
+[I 22:57:43.196 NotebookApp] Starting buffering for b03324be-ee12-406e-ab9d-f7913b93c3be:63683094fb2f495482e0e2aad31bfef7
+[W 23:09:26.474 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 23:09:26.853 NotebookApp] Kernel started: 7f637889-8e69-4dcf-b5d6-df6d4548d41f
+[I 23:09:26.944 NotebookApp] 302 GET /notebooks/static/sneakers.png (100.74.198.254) 0.75ms
+[W 15:36:27.313 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 15:36:32.319 NotebookApp] Starting buffering for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:b33a828a79ef4c29ad614792101609be
+[I 17:08:56.954 NotebookApp] 302 GET / (127.0.0.1) 0.59ms
+[I 17:08:56.959 NotebookApp] 302 GET /tree? (127.0.0.1) 0.56ms
+[I 17:08:59.149 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 0.83ms
+[W 17:09:11.891 NotebookApp] Notebook 9-Segmentation-Networks.ipynb is not trusted
+[I 17:09:12.217 NotebookApp] Kernel started: b6391c87-f371-4368-9fcb-16e2c5fcb3b5
+[I 17:09:16.713 NotebookApp] Saving file at /9-Segmentation-Networks.ipynb
+[W 17:09:16.713 NotebookApp] Notebook 9-Segmentation-Networks.ipynb is not trusted
+[I 17:16:20.007 NotebookApp] Starting buffering for b6391c87-f371-4368-9fcb-16e2c5fcb3b5:a1d794ee337a4850997308e0259761d5
+[I 17:22:56.576 NotebookApp] 302 GET / (127.0.0.1) 0.47ms
+[I 17:43:41.343 NotebookApp] 302 GET / (37.120.35.109) 1.11ms
+[I 17:43:41.371 NotebookApp] 302 GET /tree? (37.120.35.109) 1.42ms
+[I 17:48:38.183 NotebookApp] 302 GET / (100.74.198.254) 0.99ms
+[I 17:56:19.477 NotebookApp] 302 GET / (100.74.198.254) 0.29ms
+[I 18:04:23.981 NotebookApp] 302 GET / (100.74.198.254) 0.62ms
+[I 18:13:39.149 NotebookApp] 302 GET / (100.74.198.254) 1.46ms
+[I 18:13:39.164 NotebookApp] 302 GET /tree? (100.74.198.254) 1.39ms
+[I 18:14:10.888 NotebookApp] 302 GET / (100.74.198.254) 1.01ms
+[I 18:14:10.902 NotebookApp] 302 GET /tree? (100.74.198.254) 1.33ms
+[I 18:15:37.087 NotebookApp] 302 POST /login?next=%2Ftree%3F (100.74.198.254) 2.68ms
+[I 08:03:01.558 NotebookApp] 302 GET / (100.74.198.254) 1.08ms
+[I 09:20:39.092 NotebookApp] 302 GET / (91.41.226.98) 1.25ms
+[I 09:30:08.603 NotebookApp] 302 GET / (91.41.226.98) 1.11ms
+[I 09:30:28.731 NotebookApp] Kernel started: faf7c0b4-8d84-4220-9bf7-495654058b14
+[I 09:30:34.860 NotebookApp] 302 GET /notebooks/static/learing_rate_finder_lr_plot.png (91.41.226.98) 3.63ms
+[I 09:30:34.905 NotebookApp] Kernel started: fd1f8dd2-4335-46c7-abe9-08df3f1d1c25
+[I 09:31:49.660 NotebookApp] Kernel started: 862e49f1-ddfc-478e-aaca-68bfd1a6e411
+[I 09:52:46.731 NotebookApp] Saving file at /5.3-learning-rate-finder.ipynb
+[I 10:16:18.327 NotebookApp] Kernel started: 74f6dbce-45d0-4a23-b065-3753ad9c5efa
+[I 10:16:18.330 NotebookApp] 302 GET /notebooks/static/gradcam.jpg (91.41.226.98) 0.91ms
+[W 10:29:03.967 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 10:29:05.046 NotebookApp] 302 GET /notebooks/static/sneakers.png (91.41.226.98) 2.36ms
+[I 10:31:05.279 NotebookApp] Saving file at /7-transfer-learning-sneaker-not-sneaker.ipynb
+[W 10:31:05.281 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 10:33:05.634 NotebookApp] Saving file at /7-transfer-learning-sneaker-not-sneaker.ipynb
+[W 10:33:05.635 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 10:43:05.401 NotebookApp] Saving file at /7-transfer-learning-sneaker-not-sneaker.ipynb
+[W 10:43:05.402 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 10:49:05.183 NotebookApp] Saving file at /7-transfer-learning-sneaker-not-sneaker.ipynb
+[W 10:49:05.184 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[W 11:02:13.719 NotebookApp] Notebook solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb is not trusted
+[W 11:02:20.455 NotebookApp] 404 GET /notebooks/solutions/static/sneakers.png (91.41.226.98): No such file or directory: solutions/static/sneakers.png
+[W 11:02:20.458 NotebookApp] 404 GET /notebooks/solutions/static/sneakers.png (91.41.226.98) 4.39ms referer=http://i008.ddns.net:8989/notebooks/solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 11:10:53.952 NotebookApp] Kernel started: 8e45773f-6725-40d0-879a-f7cfa5cd29c3
+[I 11:12:21.666 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[W 11:12:21.668 NotebookApp] Notebook solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb is not trusted
+[I 11:14:22.774 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[W 11:14:22.776 NotebookApp] Notebook solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb is not trusted
+[I 11:15:05.118 NotebookApp] Saving file at /7-transfer-learning-sneaker-not-sneaker.ipynb
+[W 11:15:05.119 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 11:16:21.656 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[W 11:16:21.658 NotebookApp] Notebook solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb is not trusted
+[I 11:17:35.720 NotebookApp] Starting buffering for fd1f8dd2-4335-46c7-abe9-08df3f1d1c25:eb0296707f854d509f84704027e5a5ca
+[I 11:18:23.016 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[W 11:18:23.017 NotebookApp] Notebook solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb is not trusted
+[I 11:20:22.402 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[W 11:20:22.403 NotebookApp] Notebook solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb is not trusted
+[I 11:22:22.781 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[W 11:22:22.782 NotebookApp] Notebook solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb is not trusted
+[I 11:24:22.425 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[W 11:24:22.427 NotebookApp] Notebook solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb is not trusted
+[I 11:29:05.104 NotebookApp] Saving file at /7-transfer-learning-sneaker-not-sneaker.ipynb
+[W 11:29:05.105 NotebookApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 13:13:16.721 NotebookApp] Starting buffering for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:1760e83e27b9429387040a0eeda91e93
+[I 13:13:16.722 NotebookApp] Starting buffering for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 13:13:16.723 NotebookApp] Starting buffering for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 13:13:16.724 NotebookApp] Starting buffering for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 13:13:16.725 NotebookApp] Starting buffering for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 13:13:16.726 NotebookApp] Starting buffering for b03324be-ee12-406e-ab9d-f7913b93c3be:7d3c290951624c8d86be60ff897d03ca
+[I 13:13:17.684 NotebookApp] Restoring connection for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 13:13:18.282 NotebookApp] Restoring connection for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:1760e83e27b9429387040a0eeda91e93
+[I 13:13:18.365 NotebookApp] Restoring connection for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 13:13:18.634 NotebookApp] Restoring connection for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 13:13:19.962 NotebookApp] Restoring connection for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[W 13:14:47.684 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:14:48.283 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:14:48.366 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 13:14:48.635 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 13:14:49.362 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 13:14:49.453 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:14:49.963 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 13:14:52.686 NotebookApp] Starting buffering for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 13:14:53.285 NotebookApp] Starting buffering for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:1760e83e27b9429387040a0eeda91e93
+[I 13:14:53.368 NotebookApp] Starting buffering for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 13:14:53.638 NotebookApp] Starting buffering for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 13:14:54.455 NotebookApp] Starting buffering for b03324be-ee12-406e-ab9d-f7913b93c3be:7d3c290951624c8d86be60ff897d03ca
+[I 13:14:54.966 NotebookApp] Starting buffering for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 14:28:27.033 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 14:28:35.610 NotebookApp] Kernel restarted: 8e45773f-6725-40d0-879a-f7cfa5cd29c3
+[I 14:28:36.411 NotebookApp] Restoring connection for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:1760e83e27b9429387040a0eeda91e93
+[I 14:28:36.411 NotebookApp] Replaying 6 buffered messages
+[I 14:28:36.517 NotebookApp] Starting buffering for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:1760e83e27b9429387040a0eeda91e93
+[W 14:28:42.958 NotebookApp] 404 GET /notebooks/solutions/static/sneakers.png (91.41.226.98): No such file or directory: solutions/static/sneakers.png
+[W 14:28:42.961 NotebookApp] 404 GET /notebooks/solutions/static/sneakers.png (91.41.226.98) 4.32ms referer=http://i008.ddns.net:8989/notebooks/solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 14:29:36.389 NotebookApp] Kernel interrupted: 8e45773f-6725-40d0-879a-f7cfa5cd29c3
+[I 14:30:43.932 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 14:32:13.002 NotebookApp] Restoring connection for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 14:32:13.094 NotebookApp] Restoring connection for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 14:32:14.763 NotebookApp] Restoring connection for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 14:32:15.557 NotebookApp] Restoring connection for b03324be-ee12-406e-ab9d-f7913b93c3be:7d3c290951624c8d86be60ff897d03ca
+[I 14:32:15.732 NotebookApp] Restoring connection for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 14:32:44.036 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 14:34:43.776 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 14:36:44.817 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 15:00:44.094 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 15:02:44.044 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 15:04:43.678 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[I 15:06:43.682 NotebookApp] Saving file at /solutions/7-transfer-learning-sneaker-not-sneaker-solution.ipynb
+[W 16:00:19.497 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 16:00:22.431 NotebookApp] Kernel started: af6a3891-a348-478c-aeb4-4ad9adc1d21c
+[I 16:00:22.433 NotebookApp] 302 GET /notebooks/static/widget.png (91.41.226.98) 0.84ms
+[I 16:02:26.629 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 16:02:26.629 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 16:42:23.069 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 16:42:23.070 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 16:44:22.709 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 16:44:22.710 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 16:46:23.549 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 16:46:23.550 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[W 16:58:23.588 NotebookApp] Notebook solutions/8-ISBI-Dataset-solution.ipynb is not trusted
+[W 16:58:26.749 NotebookApp] 404 GET /notebooks/solutions/static/widget.png (91.41.226.98): No such file or directory: solutions/static/widget.png
+[W 16:58:26.752 NotebookApp] 404 GET /notebooks/solutions/static/widget.png (91.41.226.98) 4.42ms referer=http://i008.ddns.net:8989/notebooks/solutions/8-ISBI-Dataset-solution.ipynb
+[I 16:58:30.049 NotebookApp] Kernel started: 53b9a4c1-869b-458f-9070-bc839508cb5e
+[I 17:00:29.701 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[W 17:00:29.702 NotebookApp] Notebook solutions/8-ISBI-Dataset-solution.ipynb is not trusted
+[I 17:06:27.240 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[W 17:06:27.241 NotebookApp] Notebook solutions/8-ISBI-Dataset-solution.ipynb is not trusted
+[I 17:12:27.066 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[W 17:12:27.066 NotebookApp] Notebook solutions/8-ISBI-Dataset-solution.ipynb is not trusted
+[I 17:14:27.852 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[W 17:14:27.852 NotebookApp] Notebook solutions/8-ISBI-Dataset-solution.ipynb is not trusted
+[I 17:15:56.487 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:56.487 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:15:57.394 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:57.395 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:15:58.079 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:58.080 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:15:58.142 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:58.142 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:15:58.428 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:58.429 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:15:58.810 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:58.810 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:15:59.468 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:59.469 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:15:59.724 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:59.725 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:15:59.772 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:15:59.772 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:16:01.493 NotebookApp] Saving file at /8-ISBI-Dataset.ipynb
+[W 17:16:01.494 NotebookApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 17:56:27.392 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[W 17:57:18.194 NotebookApp] Notebook 9-Segmentation-Networks.ipynb is not trusted
+[I 17:58:20.627 NotebookApp] Saving file at /9-Segmentation-Networks.ipynb
+[W 17:58:20.628 NotebookApp] Notebook 9-Segmentation-Networks.ipynb is not trusted
+[I 17:58:30.027 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[I 18:00:27.411 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[I 18:03:23.643 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[I 18:03:24.044 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[I 18:03:26.627 NotebookApp] Saving file at /solutions/8-ISBI-Dataset-solution.ipynb
+[I 18:04:11.300 NotebookApp] Starting buffering for 53b9a4c1-869b-458f-9070-bc839508cb5e:ed19eb58f47a481c911af22d5f60974b
+[W 18:04:15.869 NotebookApp] Notebook 9-Segmentation-Networks.ipynb is not trusted
+[I 18:05:12.612 NotebookApp] Saving file at /9-Segmentation-Networks.ipynb
+[W 18:05:12.612 NotebookApp] Notebook 9-Segmentation-Networks.ipynb is not trusted
+[I 18:05:12.667 NotebookApp] Saving file at /9-Segmentation-Networks.ipynb
+[W 18:05:12.667 NotebookApp] Notebook 9-Segmentation-Networks.ipynb is not trusted
+[I 18:05:12.769 NotebookApp] Saving file at /9-Segmentation-Networks.ipynb
+[W 18:05:12.770 NotebookApp] Notebook 9-Segmentation-Networks.ipynb is not trusted
+[I 18:05:37.884 NotebookApp] Starting buffering for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 18:05:37.884 NotebookApp] Starting buffering for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 18:05:37.889 NotebookApp] Starting buffering for b03324be-ee12-406e-ab9d-f7913b93c3be:d7be13506a7245c69aaa8a296b285bce
+[I 18:05:37.954 NotebookApp] Starting buffering for b6391c87-f371-4368-9fcb-16e2c5fcb3b5:920f4da36cee4a968bfc8840e2a49c65
+[I 18:05:38.558 NotebookApp] Starting buffering for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[I 18:05:38.567 NotebookApp] Starting buffering for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 18:05:38.568 NotebookApp] Starting buffering for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 18:05:38.971 NotebookApp] Starting buffering for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 18:05:39.330 NotebookApp] Restoring connection for b03324be-ee12-406e-ab9d-f7913b93c3be:d7be13506a7245c69aaa8a296b285bce
+[I 18:05:39.590 NotebookApp] Restoring connection for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 18:05:39.682 NotebookApp] Restoring connection for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 18:05:39.942 NotebookApp] Restoring connection for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 18:05:40.038 NotebookApp] Restoring connection for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 18:05:40.142 NotebookApp] Restoring connection for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 18:05:40.233 NotebookApp] Restoring connection for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[W 18:07:08.825 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 18:07:09.330 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:07:09.492 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:07:09.591 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 18:07:09.683 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 18:07:09.844 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:07:09.943 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 18:07:10.039 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 18:07:10.145 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 18:07:10.233 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 18:07:14.494 NotebookApp] Starting buffering for b03324be-ee12-406e-ab9d-f7913b93c3be:7d3c290951624c8d86be60ff897d03ca
+[I 18:07:14.592 NotebookApp] Starting buffering for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 18:07:14.686 NotebookApp] Starting buffering for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 18:07:14.846 NotebookApp] Starting buffering for b6391c87-f371-4368-9fcb-16e2c5fcb3b5:920f4da36cee4a968bfc8840e2a49c65
+[I 18:07:14.945 NotebookApp] Starting buffering for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 18:07:15.040 NotebookApp] Starting buffering for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 18:07:15.146 NotebookApp] Starting buffering for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 18:07:15.236 NotebookApp] Starting buffering for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[I 20:59:45.820 NotebookApp] Restoring connection for b6391c87-f371-4368-9fcb-16e2c5fcb3b5:920f4da36cee4a968bfc8840e2a49c65
+[I 20:59:46.198 NotebookApp] Restoring connection for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 20:59:46.237 NotebookApp] Restoring connection for b03324be-ee12-406e-ab9d-f7913b93c3be:7d3c290951624c8d86be60ff897d03ca
+[I 20:59:46.659 NotebookApp] Restoring connection for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 20:59:46.698 NotebookApp] Restoring connection for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 20:59:46.740 NotebookApp] Restoring connection for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 20:59:46.783 NotebookApp] Restoring connection for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[I 20:59:47.627 NotebookApp] Restoring connection for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 23:30:11.949 NotebookApp] Starting buffering for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[I 23:30:11.950 NotebookApp] Starting buffering for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 23:30:11.952 NotebookApp] Starting buffering for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 23:30:11.953 NotebookApp] Starting buffering for b03324be-ee12-406e-ab9d-f7913b93c3be:7d3c290951624c8d86be60ff897d03ca
+[I 23:30:11.955 NotebookApp] Starting buffering for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 23:30:11.956 NotebookApp] Starting buffering for b6391c87-f371-4368-9fcb-16e2c5fcb3b5:920f4da36cee4a968bfc8840e2a49c65
+[I 23:30:11.956 NotebookApp] Starting buffering for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 23:30:11.957 NotebookApp] Starting buffering for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 23:30:13.731 NotebookApp] Restoring connection for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 23:30:13.751 NotebookApp] Restoring connection for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 23:30:13.782 NotebookApp] Restoring connection for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[I 23:30:13.801 NotebookApp] Restoring connection for b03324be-ee12-406e-ab9d-f7913b93c3be:7d3c290951624c8d86be60ff897d03ca
+[I 23:30:13.821 NotebookApp] Restoring connection for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 23:30:13.860 NotebookApp] Restoring connection for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 23:30:13.899 NotebookApp] Restoring connection for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[W 23:31:43.732 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:31:43.752 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:31:43.782 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:31:43.802 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 23:31:43.822 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:31:43.839 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:31:43.861 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:31:43.881 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 23:31:43.900 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:31:43.925 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 23:31:48.733 NotebookApp] Starting buffering for faf7c0b4-8d84-4220-9bf7-495654058b14:663312c71c25401e887b3bf0ac3485b6
+[I 23:31:48.754 NotebookApp] Starting buffering for 862e49f1-ddfc-478e-aaca-68bfd1a6e411:a917e5143a004dd6a6f744076416c033
+[I 23:31:48.784 NotebookApp] Starting buffering for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[I 23:31:48.823 NotebookApp] Starting buffering for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 23:31:48.862 NotebookApp] Starting buffering for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 23:31:48.882 NotebookApp] Starting buffering for b6391c87-f371-4368-9fcb-16e2c5fcb3b5:920f4da36cee4a968bfc8840e2a49c65
+[I 23:31:48.903 NotebookApp] Starting buffering for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 23:31:48.926 NotebookApp] Starting buffering for b03324be-ee12-406e-ab9d-f7913b93c3be:d7be13506a7245c69aaa8a296b285bce
+[W 08:18:05.119 NotebookApp] 404 GET /notebooks/REV/Untitled.ipynb?kernel_name=dl (127.0.0.1): No such file or directory: REV/Untitled.ipynb
+[W 08:18:05.120 NotebookApp] 404 GET /notebooks/REV/Untitled.ipynb?kernel_name=dl (127.0.0.1) 1.40ms referer=None
+[I 09:05:19.276 NotebookApp] Restoring connection for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 09:05:19.359 NotebookApp] Restoring connection for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 09:05:19.391 NotebookApp] Restoring connection for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 09:05:19.417 NotebookApp] Restoring connection for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[I 09:06:32.815 NotebookApp] Starting buffering for 8e45773f-6725-40d0-879a-f7cfa5cd29c3:8d3f40914baa4a77a8c809909a385d27
+[I 09:06:32.816 NotebookApp] Starting buffering for 74f6dbce-45d0-4a23-b065-3753ad9c5efa:f1a589bc69494583b373045fdc15a718
+[I 09:06:32.817 NotebookApp] Starting buffering for af6a3891-a348-478c-aeb4-4ad9adc1d21c:13c325e8ac8241139ed75b4892d84689
+[I 09:06:32.819 NotebookApp] Starting buffering for 7f637889-8e69-4dcf-b5d6-df6d4548d41f:8e54f3b8cae245b09986eef139a1ac89
+[I 09:06:32.827 NotebookApp] Starting buffering for b03324be-ee12-406e-ab9d-f7913b93c3be:7d3c290951624c8d86be60ff897d03ca
+[I 09:06:32.829 NotebookApp] Starting buffering for b6391c87-f371-4368-9fcb-16e2c5fcb3b5:c33034c9bcc74a918aa3380b6212c574
+[C 07:51:48.043 NotebookApp] received signal 15, stopping
+[I 07:51:48.043 NotebookApp] Shutting down 11 kernels
+[I 07:51:48.246 NotebookApp] Kernel shutdown: 8a52f412-17c9-4281-8573-89613c2cf44c
+[I 07:51:48.247 NotebookApp] Kernel shutdown: b03324be-ee12-406e-ab9d-f7913b93c3be
+[I 07:51:48.247 NotebookApp] Kernel shutdown: 7f637889-8e69-4dcf-b5d6-df6d4548d41f
+[I 07:51:48.247 NotebookApp] Kernel shutdown: b6391c87-f371-4368-9fcb-16e2c5fcb3b5
+[I 07:51:48.247 NotebookApp] Kernel shutdown: faf7c0b4-8d84-4220-9bf7-495654058b14
+[I 07:51:48.247 NotebookApp] Kernel shutdown: fd1f8dd2-4335-46c7-abe9-08df3f1d1c25
+[I 07:51:48.247 NotebookApp] Kernel shutdown: 862e49f1-ddfc-478e-aaca-68bfd1a6e411
+[I 07:51:48.248 NotebookApp] Kernel shutdown: 74f6dbce-45d0-4a23-b065-3753ad9c5efa
+[I 07:51:48.648 NotebookApp] Kernel shutdown: 8e45773f-6725-40d0-879a-f7cfa5cd29c3
+[I 07:51:48.649 NotebookApp] Kernel shutdown: af6a3891-a348-478c-aeb4-4ad9adc1d21c
+[I 07:51:48.649 NotebookApp] Kernel shutdown: 53b9a4c1-869b-458f-9070-bc839508cb5e
