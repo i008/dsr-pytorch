@@ -112,9 +112,7 @@ class FocalLoss(nn.Module):
           cls_targets: (tensor) encoded target labels, sized [batch_size, #anchors].
         loss:
           (tensor) loss = SmoothL1Loss(loc_preds, loc_targets) + FocalLoss(cls_preds, cls_targets).
-        '''
-        import pdb; pdb.set_trace()
-        
+        '''        
         batch_size, num_boxes = cls_targets.size()
         pos = cls_targets > 0  # [N,#anchors]
         num_pos = pos.data.long().sum()

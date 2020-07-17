@@ -6,6 +6,7 @@ https://s3.eu-central-1.amazonaws.com/i008data/small_sneaker_not_sneaker.tar.gz
 
 
 ### Environment
+
 ```bash
 conda env update
 conda install nb_conda
@@ -18,12 +19,58 @@ python test_env.py
 
 ```
 
-
 ### Commands
 
 ```bash
 tensorboard --port=8888 --logdir runs
 ```
 
+## Pytorch and nn-basics
 
-[1. Pytorch basics](1-pytorch-basics.ipynb)
+[Pytorch basics](1-pytorch-basics.ipynb)  
+[The simplest neural network - perceptron](2-perceptron.ipynb)  
+[Dataset and Dataloader](pytorch_dataset_and_dataloader)
+
+## Pytorch frameworks and logging
+[Perceptron trained with skorch](2.1-perceptron-skorch.ipynb)  
+[Perceptron trained and logged with tensorboard](2.2-perceptron-tensorboard.ipynb) 
+
+
+## Python
+[Python refresher](3-Python-refresher-jupyter-tips-and-tricks)
+
+## Fundamentals
+
+[Convolutions basics](3-Python-refresher-jupyter-tips-and-tricks)
+
+## FashionMnist CNN training 
+
+[Training FashionMnist](training-fashion-mnist)  
+[Training FashionMnist with neptune logging](training-fashion-mnist-with-neptune)  
+
+## Transfer learning
+[Training FashionMnist with transfer-learning](6-pytorch-fmnist-transfer-learning)
+
+## Deep Learning advanced concepts
+[Finding the right learning rate](training-fashion-mnist-with-neptune)  
+[Batch normalization](batchnom.ipynb)
+[Grad CAM](grad-cam.ipynb)
+
+
+## Project 1 - Sneaker Not Sneaker
+[Sneaker not Sneaker transfer learning](7-transfer-learning-sneaker-not-sneaker.ipynb)
+
+
+## Project 2 - Segmentation
+[Segmentation Dataset](8-ISBI-Dataset.ipynb)
+[Segmentation Models](9-Segmentation-Networks)
+
+
+## Object Detection
+[Detecting Shapes with Retinanet](10-Object-Detection-Shapes.ipynb)
+
+
+## Representaional Learning
+[Auto Encoder](AutoEncoders%20%20-%20CAE.ipynb)
+[Variational Auto Encoder](AutoEncoders%20%20-%20VAE.ipynb)
+
