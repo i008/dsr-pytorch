@@ -29,30 +29,30 @@ tensorboard --port=8888 --logdir runs
 
 [Pytorch basics](1-pytorch-basics.ipynb)  
 [The simplest neural network - perceptron](2-perceptron.ipynb)  
-[Dataset and Dataloader](pytorch_dataset_and_dataloader)
+[Dataset and Dataloader](pytorch_dataset_and_dataloader.ipynb)
 
 ## Pytorch frameworks and logging
 [Perceptron trained with skorch](2.1-perceptron-skorch.ipynb)  
 [Perceptron trained and logged with tensorboard](2.2-perceptron-tensorboard.ipynb) 
-[Perceptron trained with Catalyst](2.3-perceptron-catalyst)
+[Perceptron trained with Catalyst](2.3-perceptron-catalyst.ipynb)
 
 ## Python
-[Python refresher](3-Python-refresher-jupyter-tips-and-tricks)
+[Python refresher](3-Python-refresher-jupyter-tips-and-tricks.ipynb)
 
 ## Fundamentals
 
-[Convolutions basics](3-Python-refresher-jupyter-tips-and-tricks)
+[Convolutions basics](4-convolutions.ipynb)
 
 ## FashionMnist CNN training 
 
-[Training FashionMnist](training-fashion-mnist)  
-[Training FashionMnist with neptune logging](training-fashion-mnist-with-neptune)  
+[Training FashionMnist](training-fashion-mnist.ipynb)  
+[Training FashionMnist with neptune logging](training-fashion-mnist-with-neptune.ipynb)  
 
 ## Transfer learning
-[Training FashionMnist with transfer-learning](6-pytorch-fmnist-transfer-learning)
+[Training FashionMnist with transfer-learning](6-pytorch-fmnist-transfer-learning.ipynb)
 
 ## Deep Learning advanced concepts
-[Finding the right learning rate](training-fashion-mnist-with-neptune)  
+[Finding the right learning rate](5.3-learning-rate-finder.ipynb)  
 [Batch normalization](batchnom.ipynb)
 [Grad CAM](grad-cam.ipynb)
 
@@ -63,7 +63,7 @@ tensorboard --port=8888 --logdir runs
 
 ## Project 2 - Segmentation
 [Segmentation Dataset](8-ISBI-Dataset.ipynb)
-[Segmentation Models](9-Segmentation-Networks)
+[Segmentation Models](9-Segmentation-Networks.ipynb)
 
 
 ## Object Detection
