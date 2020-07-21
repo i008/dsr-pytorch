@@ -34,7 +34,7 @@ tensorboard --port=8888 --logdir runs
 ## Pytorch frameworks and logging
 [Perceptron trained with skorch](2.1-perceptron-skorch.ipynb)  
 [Perceptron trained and logged with tensorboard](2.2-perceptron-tensorboard.ipynb) 
-
+[Perceptron trained with Catalyst](2.3-perceptron-catalyst)
 
 ## Python
 [Python refresher](3-Python-refresher-jupyter-tips-and-tricks)
@@ -74,3 +74,7 @@ tensorboard --port=8888 --logdir runs
 [Auto Encoder](AutoEncoders%20%20-%20CAE.ipynb)
 [Variational Auto Encoder](AutoEncoders%20%20-%20VAE.ipynb)
 
+
+## Tabular Deep Learning
+[Tabular Embeddings](tabular-embeddings-1.ipynb)
+[Adult Salaries with DL](tabular-embeddings-2)
