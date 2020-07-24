@@ -1003,3 +1003,255 @@ Opening in existing browser session.
 [I 07:51:48.648 NotebookApp] Kernel shutdown: 8e45773f-6725-40d0-879a-f7cfa5cd29c3
 [I 07:51:48.649 NotebookApp] Kernel shutdown: af6a3891-a348-478c-aeb4-4ad9adc1d21c
 [I 07:51:48.649 NotebookApp] Kernel shutdown: 53b9a4c1-869b-458f-9070-bc839508cb5e
+[I 23:25:46.189 LabApp] [nb_conda_kernels] enabled, 2 kernels found
+[I 23:25:46.944 LabApp] JupyterLab extension loaded from /home/i008/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 23:25:46.944 LabApp] JupyterLab application directory is /home/i008/anaconda3/share/jupyter/lab
+[I 23:25:46.986 LabApp] [Jupytext Server Extension] Deriving a JupytextContentsManager from LargeFileManager
+[I 23:25:46.989 LabApp] [nb_conda] enabled
+[I 23:25:46.989 LabApp] Serving notebooks from local directory: /home/i008/dsr-pytorch
+[I 23:25:46.989 LabApp] The Jupyter Notebook is running at:
+[I 23:25:46.989 LabApp] http://i008:8989/
+[I 23:25:46.989 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 23:25:55.611 LabApp] 302 GET / (100.74.194.196) 2.72ms
+[I 23:26:01.697 LabApp] Build is up to date
+-\|/-\|/-\|[I 23:26:08.508 LabApp] Kernel started: ef648182-f902-4506-9509-9e5e8422225b
+[I 23:26:09.034 LabApp] Starting buffering for ef648182-f902-4506-9509-9e5e8422225b:891055c2-8578-49ff-b878-acb969f79616
+[I 23:28:03.423 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:28:03.424 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:28:27.186 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:28:27.187 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:28:40.153 LabApp] Kernel started: 7915cfd4-0512-418e-9bec-6aa9813f066d
+[W 23:28:46.764 LabApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 23:28:47.330 LabApp] Kernel started: 71594bf2-88bc-4193-8546-fdcb0d33db15
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\[W 23:30:00.063 LabApp] Build recommended
+[W 23:30:00.064 LabApp] @jupyterlab/pullrequests needs to be included in build
+[W 23:30:00.064 LabApp] @jupyterlab/shortcutui needs to be included in build
+[W 23:30:00.485 LabApp] Build recommended
+[W 23:30:00.485 LabApp] @jupyterlab/pullrequests needs to be included in build
+[W 23:30:00.485 LabApp] @jupyterlab/shortcutui needs to be included in build
+[I 23:30:10.328 LabApp] Building jupyterlab assets (build:dev)
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\[I 23:30:28.149 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:30:28.149 LabApp] Saving fashion-mnist-neptune.ipynb
+|/-\|-\|/-\|/-\|/-\|/-\-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-[I 23:30:54.459 LabApp] Starting buffering for ef648182-f902-4506-9509-9e5e8422225b:687060a0-d762-461c-a330-e380f386d52a
+[I 23:30:54.460 LabApp] Starting buffering for 7915cfd4-0512-418e-9bec-6aa9813f066d:e5bf46d1-63bb-424a-bd95-d946bb4344a9
+[I 23:30:54.460 LabApp] Starting buffering for 71594bf2-88bc-4193-8546-fdcb0d33db15:b2b7dd95-9433-4cb3-aa76-a2a2f3ea8467
+[W 23:31:01.241 LabApp] 404 GET /pullrequests/prs/user?filter=created&1595453461216 (100.74.194.196) 20.84ms referer=http://i008.duckdns.org:8989/lab?
+[W 23:31:01.243 LabApp] 404 GET /pullrequests/prs/user?filter=assigned&1595453461217 (100.74.194.196) 1.23ms referer=http://i008.duckdns.org:8989/lab?
+[I 23:31:02.373 LabApp] Build is up to date
+[W 23:31:02.586 LabApp] Notebook 8-ISBI-Dataset.ipynb is not trusted
+[I 23:31:27.365 LabApp] Starting buffering for 7915cfd4-0512-418e-9bec-6aa9813f066d:39edc12b-ad97-40f8-99ad-096bf862135a
+[I 23:31:27.621 LabApp] Starting buffering for 71594bf2-88bc-4193-8546-fdcb0d33db15:00589172-3bd8-4453-ad4c-93c2c67ad058
+[I 23:33:04.113 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:33:04.115 LabApp] Saving fashion-mnist-neptune.ipynb
+-\|/-\|/-\|/-\|/-\|[W 23:33:16.010 LabApp] Build recommended
+[W 23:33:16.010 LabApp] @krassowski/jupyterlab_go_to_definition needs to be included in build
+[I 23:33:28.145 LabApp] Building jupyterlab assets (build:dev)
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-[I 23:33:53.149 LabApp] Starting buffering for ef648182-f902-4506-9509-9e5e8422225b:126429f5-4254-416f-8bdd-1cb5d469aef3
+[W 23:34:00.869 LabApp] 404 GET /pullrequests/prs/user?filter=created&1595453640863 (100.74.194.196) 1.74ms referer=http://i008.duckdns.org:8989/lab?
+[W 23:34:00.872 LabApp] 404 GET /pullrequests/prs/user?filter=assigned&1595453640864 (100.74.194.196) 0.95ms referer=http://i008.duckdns.org:8989/lab?
+[I 23:34:02.031 LabApp] Build is up to date
+[I 23:34:02.845 LabApp] Starting buffering for 71594bf2-88bc-4193-8546-fdcb0d33db15:bbc0bb40-0c60-47ee-96dd-e00d5144bb59
+[I 23:36:03.942 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:36:03.943 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:36:50.954 LabApp] Starting buffering for ef648182-f902-4506-9509-9e5e8422225b:e1a2c71b-a9be-4c2f-a914-06d0193e2ede
+[W 23:36:53.187 LabApp] 404 GET /pullrequests/prs/user?filter=created&1595453813180 (100.74.194.196) 2.22ms referer=http://i008.duckdns.org:8989/lab?
+[W 23:36:53.189 LabApp] 404 GET /pullrequests/prs/user?filter=assigned&1595453813181 (100.74.194.196) 0.92ms referer=http://i008.duckdns.org:8989/lab?
+[I 23:36:54.350 LabApp] Build is up to date
+[I 23:37:01.554 LabApp] Starting buffering for 71594bf2-88bc-4193-8546-fdcb0d33db15:c4fe8dd4-203a-4dd0-9140-dc3a53cbd372
+[I 23:37:32.900 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:32.901 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:33.113 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:33.114 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:33.465 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:33.467 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:33.749 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:33.749 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:33.931 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:33.932 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:34.278 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:34.278 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:34.360 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:34.360 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:34.628 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:34.630 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:49.658 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:49.659 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:37:49.875 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:37:49.877 LabApp] Saving fashion-mnist-neptune.ipynb
+[W 23:40:34.274 LabApp] Notebook playground.ipynb is not trusted
+[I 23:40:35.011 LabApp] Kernel started: 8e5e1215-3dbe-4aa4-95a7-ee05782eef54
+[I 23:41:50.237 LabApp] Saving file at /fashion-mnist-neptune.ipynb
+[I 23:41:50.238 LabApp] Saving fashion-mnist-neptune.ipynb
+[I 23:42:34.854 LabApp] Saving file at /playground.ipynb
+[I 23:42:34.854 LabApp] Saving playground.ipynb
+[W 23:42:34.855 LabApp] Notebook playground.ipynb is not trusted
+[I 23:44:35.980 LabApp] Saving file at /playground.ipynb
+[I 23:44:35.981 LabApp] Saving playground.ipynb
+[W 23:44:35.981 LabApp] Notebook playground.ipynb is not trusted
+[I 23:46:36.238 LabApp] Saving file at /playground.ipynb
+[I 23:46:36.239 LabApp] Saving playground.ipynb
+[W 23:46:36.239 LabApp] Notebook playground.ipynb is not trusted
+[I 23:48:36.306 LabApp] Saving file at /playground.ipynb
+[I 23:48:36.307 LabApp] Saving playground.ipynb
+[W 23:48:36.308 LabApp] Notebook playground.ipynb is not trusted
+[I 00:05:20.668 LabApp] Kernel started: 23d0cfe9-9b88-4049-a353-6c634668bbdf
+[I 00:06:17.910 LabApp] Uninstalling core extension @jupyterlab/pullrequests
+[I 00:06:17.911 LabApp] Build is up to date
+[W 00:06:19.100 LabApp] Build recommended
+[W 00:06:19.100 LabApp] @jupyterlab/pullrequests needs to be removed from build
+[I 00:06:27.252 LabApp] Building jupyterlab assets (build:dev)
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\-\|/-\|/-\|/-\|/-\-\|/-\|/-\|/-\|/-\|/-\|/-\|/-[I 00:06:36.506 LabApp] Saving file at /playground.ipynb
+[I 00:06:36.507 LabApp] Saving playground.ipynb
+[W 00:06:36.507 LabApp] Notebook playground.ipynb is not trusted
+\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\[I 00:06:50.752 LabApp] Starting buffering for ef648182-f902-4506-9509-9e5e8422225b:ce627290-9676-4b98-a1e8-c6fd8c34b83c
+[I 00:06:50.753 LabApp] Starting buffering for 8e5e1215-3dbe-4aa4-95a7-ee05782eef54:e523840d-bed3-4774-a167-1dbc65f5e19f
+[I 00:06:50.753 LabApp] Starting buffering for 23d0cfe9-9b88-4049-a353-6c634668bbdf:a7395950-d10f-489b-a14d-b84676a5b429
+[W 00:06:56.722 LabApp] Notebook playground.ipynb is not trusted
+[I 00:06:57.578 LabApp] Build is up to date
+[I 00:08:16.743 LabApp] Refusing to serve hidden directory '/home/i008/dsr-pytorch/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/optim', via 404 Error
+[W 00:08:16.743 LabApp] 404 GET /api/contents/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/optim?content=1&1595455696736 (100.74.194.196): directory does not exist: '.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/optim'
+[W 00:08:16.743 LabApp] directory does not exist: '.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/optim'
+[W 00:08:16.744 LabApp] 404 GET /api/contents/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/optim?content=1&1595455696736 (100.74.194.196) 1.13ms referer=http://i008.duckdns.org:8989/lab?
+[I 00:08:58.044 LabApp] Saving file at /2-perceptron.ipynb
+[I 00:08:58.046 LabApp] Saving 2-perceptron.ipynb
+[I 00:09:05.667 LabApp] Starting buffering for ef648182-f902-4506-9509-9e5e8422225b:0f4823e2-38d0-4226-a51c-db7e05c25729
+[I 00:09:14.411 LabApp] Saving file at /2-perceptron.ipynb
+[I 00:09:14.414 LabApp] Saving 2-perceptron.ipynb
+[I 00:09:14.499 LabApp] Saving file at /2-perceptron.ipynb
+[I 00:09:14.499 LabApp] Saving 2-perceptron.ipynb
+[I 00:09:14.606 LabApp] Saving file at /2-perceptron.ipynb
+[I 00:09:14.608 LabApp] Saving 2-perceptron.ipynb
+[I 00:11:15.032 LabApp] Saving file at /2-perceptron.ipynb
+[I 00:11:15.034 LabApp] Saving 2-perceptron.ipynb
+[I 00:12:29.254 LabApp] Starting buffering for 8e5e1215-3dbe-4aa4-95a7-ee05782eef54:06044c37-2f59-4864-96bb-b81dfe2af8e1
+[I 00:12:29.255 LabApp] Starting buffering for 23d0cfe9-9b88-4049-a353-6c634668bbdf:a4ec5b1c-63a2-43c4-a323-45f694f6a99e
+[I 00:12:33.701 LabApp] Starting buffering for 23d0cfe9-9b88-4049-a353-6c634668bbdf:92a4bbce-29af-4e28-a8ae-001f9e073e65
+[I 00:12:34.691 LabApp] Build is up to date
+[W 00:12:34.966 LabApp] Notebook playground.ipynb is not trusted
+[I 00:14:35.173 LabApp] Saving file at /retinanet/retinanet.py
+[I 00:15:27.679 LabApp] Refusing to serve hidden directory '/home/i008/dsr-pytorch/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/pandas/core', via 404 Error
+[W 00:15:27.679 LabApp] 404 GET /api/contents/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/pandas/core?content=1&1595456127674 (100.74.194.196): directory does not exist: '.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/pandas/core'
+[W 00:15:27.679 LabApp] directory does not exist: '.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/pandas/core'
+[W 00:15:27.679 LabApp] 404 GET /api/contents/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/pandas/core?content=1&1595456127674 (100.74.194.196) 1.08ms referer=http://i008.duckdns.org:8989/lab?
+[I 00:16:35.719 LabApp] Saving file at /2-perceptron.ipynb
+[I 00:16:35.722 LabApp] Saving 2-perceptron.ipynb
+[I 00:18:13.517 LabApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 00:20:39.073 LabApp] 404 GET /api/contents/retinanet/Variable.py?content=0&1595456439068 (100.74.194.196): No such file or directory: retinanet/Variable.py
+[W 00:20:39.073 LabApp] No such file or directory: retinanet/Variable.py
+[W 00:20:39.073 LabApp] 404 GET /api/contents/retinanet/Variable.py?content=0&1595456439068 (100.74.194.196) 0.97ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:39.074 LabApp] 404 GET /api/contents/retinanet/Variable/__init__.py?content=0&1595456439069 (100.74.194.196): No such file or directory: retinanet/Variable/__init__.py
+[W 00:20:39.074 LabApp] No such file or directory: retinanet/Variable/__init__.py
+[W 00:20:39.074 LabApp] 404 GET /api/contents/retinanet/Variable/__init__.py?content=0&1595456439069 (100.74.194.196) 0.68ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:39.075 LabApp] 404 GET /api/contents/Variable.py?content=0&1595456439070 (100.74.194.196): No such file or directory: Variable.py
+[W 00:20:39.075 LabApp] No such file or directory: Variable.py
+[W 00:20:39.075 LabApp] 404 GET /api/contents/Variable.py?content=0&1595456439070 (100.74.194.196) 0.71ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:39.077 LabApp] 404 GET /api/contents/Variable/__init__.py?content=0&1595456439070 (100.74.194.196): No such file or directory: Variable/__init__.py
+[W 00:20:39.077 LabApp] No such file or directory: Variable/__init__.py
+[W 00:20:39.077 LabApp] 404 GET /api/contents/Variable/__init__.py?content=0&1595456439070 (100.74.194.196) 0.83ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:40.528 LabApp] 404 GET /api/contents/retinanet/Variable.py?content=0&1595456440524 (100.74.194.196): No such file or directory: retinanet/Variable.py
+[W 00:20:40.528 LabApp] No such file or directory: retinanet/Variable.py
+[W 00:20:40.529 LabApp] 404 GET /api/contents/retinanet/Variable.py?content=0&1595456440524 (100.74.194.196) 0.79ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:40.530 LabApp] 404 GET /api/contents/retinanet/Variable/__init__.py?content=0&1595456440525 (100.74.194.196): No such file or directory: retinanet/Variable/__init__.py
+[W 00:20:40.530 LabApp] No such file or directory: retinanet/Variable/__init__.py
+[W 00:20:40.530 LabApp] 404 GET /api/contents/retinanet/Variable/__init__.py?content=0&1595456440525 (100.74.194.196) 0.58ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:40.531 LabApp] 404 GET /api/contents/Variable.py?content=0&1595456440525 (100.74.194.196): No such file or directory: Variable.py
+[W 00:20:40.531 LabApp] No such file or directory: Variable.py
+[W 00:20:40.531 LabApp] 404 GET /api/contents/Variable.py?content=0&1595456440525 (100.74.194.196) 0.60ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:40.532 LabApp] 404 GET /api/contents/Variable/__init__.py?content=0&1595456440526 (100.74.194.196): No such file or directory: Variable/__init__.py
+[W 00:20:40.532 LabApp] No such file or directory: Variable/__init__.py
+[W 00:20:40.532 LabApp] 404 GET /api/contents/Variable/__init__.py?content=0&1595456440526 (100.74.194.196) 0.72ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:40.962 LabApp] 404 GET /api/contents/retinanet/Variable.py?content=0&1595456440956 (100.74.194.196): No such file or directory: retinanet/Variable.py
+[W 00:20:40.962 LabApp] No such file or directory: retinanet/Variable.py
+[W 00:20:40.962 LabApp] 404 GET /api/contents/retinanet/Variable.py?content=0&1595456440956 (100.74.194.196) 0.76ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:40.963 LabApp] 404 GET /api/contents/retinanet/Variable/__init__.py?content=0&1595456440957 (100.74.194.196): No such file or directory: retinanet/Variable/__init__.py
+[W 00:20:40.963 LabApp] No such file or directory: retinanet/Variable/__init__.py
+[W 00:20:40.963 LabApp] 404 GET /api/contents/retinanet/Variable/__init__.py?content=0&1595456440957 (100.74.194.196) 0.58ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:40.963 LabApp] 404 GET /api/contents/Variable.py?content=0&1595456440957 (100.74.194.196): No such file or directory: Variable.py
+[W 00:20:40.964 LabApp] No such file or directory: Variable.py
+[W 00:20:40.964 LabApp] 404 GET /api/contents/Variable.py?content=0&1595456440957 (100.74.194.196) 0.86ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:40.964 LabApp] 404 GET /api/contents/Variable/__init__.py?content=0&1595456440958 (100.74.194.196): No such file or directory: Variable/__init__.py
+[W 00:20:40.964 LabApp] No such file or directory: Variable/__init__.py
+[W 00:20:40.964 LabApp] 404 GET /api/contents/Variable/__init__.py?content=0&1595456440958 (100.74.194.196) 1.01ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:43.314 LabApp] 404 GET /api/contents/retinanet/Variable.py?content=0&1595456443310 (100.74.194.196): No such file or directory: retinanet/Variable.py
+[W 00:20:43.314 LabApp] No such file or directory: retinanet/Variable.py
+[W 00:20:43.315 LabApp] 404 GET /api/contents/retinanet/Variable.py?content=0&1595456443310 (100.74.194.196) 0.77ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:43.315 LabApp] 404 GET /api/contents/retinanet/Variable/__init__.py?content=0&1595456443311 (100.74.194.196): No such file or directory: retinanet/Variable/__init__.py
+[W 00:20:43.315 LabApp] No such file or directory: retinanet/Variable/__init__.py
+[W 00:20:43.315 LabApp] 404 GET /api/contents/retinanet/Variable/__init__.py?content=0&1595456443311 (100.74.194.196) 0.57ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:43.316 LabApp] 404 GET /api/contents/Variable.py?content=0&1595456443311 (100.74.194.196): No such file or directory: Variable.py
+[W 00:20:43.316 LabApp] No such file or directory: Variable.py
+[W 00:20:43.316 LabApp] 404 GET /api/contents/Variable.py?content=0&1595456443311 (100.74.194.196) 0.56ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:20:43.317 LabApp] 404 GET /api/contents/Variable/__init__.py?content=0&1595456443312 (100.74.194.196): No such file or directory: Variable/__init__.py
+[W 00:20:43.317 LabApp] No such file or directory: Variable/__init__.py
+[W 00:20:43.317 LabApp] 404 GET /api/contents/Variable/__init__.py?content=0&1595456443312 (100.74.194.196) 0.56ms referer=http://i008.duckdns.org:8989/lab?
+[I 00:20:53.580 LabApp] Starting buffering for 8e5e1215-3dbe-4aa4-95a7-ee05782eef54:61e4d2de-0d30-4299-896b-6cc26a8d2ab6
+[I 00:20:53.733 LabApp] Starting buffering for 23d0cfe9-9b88-4049-a353-6c634668bbdf:0505a722-39c5-4e2a-8426-021220819c83
+[I 00:21:08.615 LabApp] Refusing to serve hidden directory '/home/i008/dsr-pytorch/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/nn/modules', via 404 Error
+[W 00:21:08.615 LabApp] 404 GET /api/contents/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/nn/modules?content=1&1595456468610 (100.74.194.196): directory does not exist: '.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/nn/modules'
+[W 00:21:08.615 LabApp] directory does not exist: '.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/nn/modules'
+[W 00:21:08.615 LabApp] 404 GET /api/contents/.jupyter_symlinks/home/i008/anaconda3/envs/dl/lib/python3.7/site-packages/torch/nn/modules?content=1&1595456468610 (100.74.194.196) 1.06ms referer=http://i008.duckdns.org:8989/lab?
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 00:21:25.111 LabApp] Creating new file in /
+[I 00:21:28.608 LabApp] Starting buffering for 23d0cfe9-9b88-4049-a353-6c634668bbdf:26ee4756-6153-4bf8-9248-bf7ec11d0221
+[I 00:21:29.795 LabApp] Kernel shutdown: ef648182-f902-4506-9509-9e5e8422225b
+[I 00:21:30.369 LabApp] Kernel shutdown: 71594bf2-88bc-4193-8546-fdcb0d33db15
+[W 00:21:30.374 LabApp] 404 DELETE /api/sessions/07987b6f-bdc4-4d03-915f-6aab40831a39?1595456490220 (100.74.194.196): Session not found: session_id='07987b6f-bdc4-4d03-915f-6aab40831a39'
+[W 00:21:30.374 LabApp] Session not found: session_id='07987b6f-bdc4-4d03-915f-6aab40831a39'
+[W 00:21:30.375 LabApp] 404 DELETE /api/sessions/07987b6f-bdc4-4d03-915f-6aab40831a39?1595456490220 (100.74.194.196) 3.36ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:21:30.384 LabApp] 404 DELETE /api/sessions/07987b6f-bdc4-4d03-915f-6aab40831a39?1595456490368 (100.74.194.196): Session not found: session_id='07987b6f-bdc4-4d03-915f-6aab40831a39'
+[W 00:21:30.385 LabApp] Session not found: session_id='07987b6f-bdc4-4d03-915f-6aab40831a39'
+[W 00:21:30.385 LabApp] 404 DELETE /api/sessions/07987b6f-bdc4-4d03-915f-6aab40831a39?1595456490368 (100.74.194.196) 3.11ms referer=http://i008.duckdns.org:8989/lab?
+[I 00:21:30.916 LabApp] Kernel shutdown: 7915cfd4-0512-418e-9bec-6aa9813f066d
+[W 00:21:30.922 LabApp] 404 DELETE /api/sessions/9f3bfd45-6064-47d9-934c-03f41e6e51a0?1595456490730 (100.74.194.196): Session not found: session_id='9f3bfd45-6064-47d9-934c-03f41e6e51a0'
+[W 00:21:30.922 LabApp] Session not found: session_id='9f3bfd45-6064-47d9-934c-03f41e6e51a0'
+[W 00:21:30.923 LabApp] 404 DELETE /api/sessions/9f3bfd45-6064-47d9-934c-03f41e6e51a0?1595456490730 (100.74.194.196) 4.23ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:21:30.924 LabApp] 404 DELETE /api/sessions/9f3bfd45-6064-47d9-934c-03f41e6e51a0?1595456490874 (100.74.194.196): Session not found: session_id='9f3bfd45-6064-47d9-934c-03f41e6e51a0'
+[W 00:21:30.924 LabApp] Session not found: session_id='9f3bfd45-6064-47d9-934c-03f41e6e51a0'
+[W 00:21:30.925 LabApp] 404 DELETE /api/sessions/9f3bfd45-6064-47d9-934c-03f41e6e51a0?1595456490874 (100.74.194.196) 4.85ms referer=http://i008.duckdns.org:8989/lab?
+[W 00:21:31.025 LabApp] 404 DELETE /api/sessions/9f3bfd45-6064-47d9-934c-03f41e6e51a0?1595456491022 (100.74.194.196): Session not found: session_id='9f3bfd45-6064-47d9-934c-03f41e6e51a0'
+[W 00:21:31.026 LabApp] Session not found: session_id='9f3bfd45-6064-47d9-934c-03f41e6e51a0'
+[W 00:21:31.026 LabApp] 404 DELETE /api/sessions/9f3bfd45-6064-47d9-934c-03f41e6e51a0?1595456491022 (100.74.194.196) 0.84ms referer=http://i008.duckdns.org:8989/lab?
+[I 00:21:32.104 LabApp] Kernel shutdown: 8e5e1215-3dbe-4aa4-95a7-ee05782eef54
+[W 00:21:32.106 LabApp] 404 DELETE /api/sessions/2b6a9580-112a-482b-9349-a458568145a7?1595456491676 (100.74.194.196): Session not found: session_id='2b6a9580-112a-482b-9349-a458568145a7'
+[W 00:21:32.107 LabApp] Session not found: session_id='2b6a9580-112a-482b-9349-a458568145a7'
+[W 00:21:32.107 LabApp] 404 DELETE /api/sessions/2b6a9580-112a-482b-9349-a458568145a7?1595456491676 (100.74.194.196) 1.59ms referer=http://i008.duckdns.org:8989/lab?
+[I 00:21:33.449 LabApp] Kernel shutdown: 23d0cfe9-9b88-4049-a353-6c634668bbdf
+[I 00:21:35.200 LabApp] EOF on FD 91; stopping reading
+[I 00:21:35.301 LabApp] Terminal 1 closed
+Websocket closed
+Websocket closed
+[I 00:22:50.041 LabApp] Kernel started: 60a0b006-272c-4616-8074-f44c89615310
+[W 00:24:34.287 LabApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[I 00:24:34.889 LabApp] Kernel started: 0721a29a-4b73-4998-812b-4ad679ee4ebe
+[W 00:24:43.127 LabApp] delete /untitled.txt
+[I 00:24:49.950 LabApp] Saving file at /2-perceptron.ipynb
+[I 00:24:49.952 LabApp] Saving 2-perceptron.ipynb
+[W 00:26:16.112 LabApp] 404 GET /files/solutions/static/widget.png?_xsrf=2%7Cea6944db%7Cd5054a847cffd9234fa0bc02fe2173c8%7C1594768537&1595456776108 (100.74.194.196) 0.90ms referer=http://i008.duckdns.org:8989/lab?
+[I 00:26:16.581 LabApp] Kernel started: 88528608-0b35-4b11-88d0-1d3250afad16
+[I 00:26:44.371 LabApp] Starting buffering for 88528608-0b35-4b11-88d0-1d3250afad16:b98dc6c2-ae3a-4e0f-ba6a-9e8002c2972b
+[I 00:26:48.340 LabApp] Kernel started: a4624462-86e8-430d-84c4-4d86215bcc43
+[I 00:26:48.691 LabApp] Starting buffering for a4624462-86e8-430d-84c4-4d86215bcc43:6a23dc8b-a611-41ef-8bff-febaa923f33f
+[I 00:27:15.779 LabApp] Saving file at /batchnom.ipynb
+[I 00:27:15.780 LabApp] Saving batchnom.ipynb
+[I 00:27:15.962 LabApp] Saving file at /batchnom.ipynb
+[I 00:27:15.964 LabApp] Saving batchnom.ipynb
+[I 00:39:16.943 LabApp] Saving file at /batchnom.ipynb
+[I 00:39:16.943 LabApp] Saving batchnom.ipynb
+[I 01:12:06.881 LabApp] Kernel started: 8f0f9f2c-4228-4108-937e-d90b5c027374
+[I 01:27:54.893 LabApp] 302 GET / (100.74.194.196) 0.92ms
+[I 01:27:59.305 LabApp] 301 GET /lab/workspaces/auto-6/?clone (100.74.194.196) 34.14ms
+[I 01:28:01.411 LabApp] Build is up to date
+[W 01:28:01.908 LabApp] Notebook 7-transfer-learning-sneaker-not-sneaker.ipynb is not trusted
+[W 01:28:04.124 LabApp] Got events for closed stream None
+[W 01:28:16.921 LabApp] 403 POST /api/shutdown (127.0.0.1): '_xsrf' argument missing from POST
+[W 01:28:16.922 LabApp] 403 POST /api/shutdown (127.0.0.1) 1.24ms referer=None
+[I 01:28:21.445 LabApp] Shutting down on /api/shutdown request.
+[I 01:28:21.445 LabApp] Shutting down 5 kernels
+[I 01:28:22.348 LabApp] Kernel shutdown: 60a0b006-272c-4616-8074-f44c89615310
+[I 01:28:22.349 LabApp] Kernel shutdown: 0721a29a-4b73-4998-812b-4ad679ee4ebe
+[I 01:28:22.350 LabApp] Kernel shutdown: 88528608-0b35-4b11-88d0-1d3250afad16
+[I 01:28:22.350 LabApp] Kernel shutdown: a4624462-86e8-430d-84c4-4d86215bcc43
+[I 01:28:22.351 LabApp] Kernel shutdown: 8f0f9f2c-4228-4108-937e-d90b5c027374

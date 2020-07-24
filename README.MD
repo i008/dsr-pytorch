@@ -46,7 +46,7 @@ tensorboard --port=8888 --logdir runs
 ## FashionMnist CNN training 
 
 [Training FashionMnist](training-fashion-mnist.ipynb)  
-[Training FashionMnist with neptune logging](training-fashion-mnist-with-neptune.ipynb)  
+[Training FashionMnist with neptune logging](fashion-mnist-neptune.ipynb)  
 
 ## Transfer learning
 [Training FashionMnist with transfer-learning](6-pytorch-fmnist-transfer-learning.ipynb)
