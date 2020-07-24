@@ -3,6 +3,8 @@
 *.gddoc
 *.gdslides
 *.csv
+*.idea/
+*.ipynb_checkpoints
 runs/
 .idea/
 __pycache__
